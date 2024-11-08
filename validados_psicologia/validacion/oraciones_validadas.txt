@@ -1,0 +1,845 @@
+Al leer --- Yo quiero leer --- #2617#yo#__ #5441#quiero#__ #31680#leer#
+Al hablar --- Yo quiero hablar --- #2617#yo#__ #5441#quiero#__ #36544#hablar#
+Las recorto --- yo quiero recortar --- #2617#yo#__ #5441#quiero#__ #2547#recortar#
+Me gusta eso --- Me gusta --- #21917#gustar#
+¿Qué es? --- ¿Qué es? --- #32771#qué es?#
+Me sonrojé --- Avergonzado --- #31919#avergonzado#
+Machu Picchu --- Yo quiero viajar Machu Picchu --- #2617#yo#__#5441#quiero#__#4671#viajar#__#25207#Machu picchu#
+Son pequeñas --- Objetos pequeños --- #11318#objetos#__#4716#pequeño#
+Hasta pronto --- Hasta luego --- #5896#adiós#
+¡Qué hermoso! --- hermoso --- #11194#hermoso#
+Son cohibidos --- soy tímido --- #31750#tímido#
+¡Qué sorpresa! --- sorpresa --- #35565#sorpresa#
+puma --- Veo un puma --- #2474#ver# __ #9068#puma#
+gallina --- Veo una gallina --- #2474#ver#__#2403#puma#
+¿Cómo empieza? --- ¿cómo empezar? --- #22619#cómo#__#5431#empezar#
+Ahora hazlo tú --- me toca a mi --- #7158#mi turno#
+1 taza de leche --- Yo quiero 1 taza de leche --- #2617#yo#__#5441#quiero#__#2582#taza#__#2445#leche#
+Caja de colores --- Yo quiero una Caja de colores --- #2617#yo#__#5441#quiero#__#17016#pinturas de colores#
+Los descripción --- Yo quiero explicar --- #2617#yo#__#5441#quiero#__#8579#explicar#
+Leemos el texto --- Yo quiero leer --- #2617#yo#__#5441#quiero#__#31680#leer#
+No sabía cantar --- Yo no sabía cantar --- #2617#yo#__#7180#yo no sé#__#32015#cantar#
+1 tijera --- agarrar tijera --- #32773#agarrar# __ #6664#tijera#
+¿Qué necesitamos? --- ¿yo necesito? --- #2617#yo# __ #7171#necesito ayuda#
+Tapamos la botella --- Yo quiero tapar la botella --- #2617#yo# __ #5441#quiero# __ #7264#tapar#__#39042#botella#
+¿Qué es la amistad? --- ¿yo quiero tu amistad? --- #2617#yo#__#5441#quiero#__#8488#amistad#
+1 batería de 9 W --- Observa una pila --- #2474#observar# __ #8474#un# __ #8320#pila#
+Carbón de madera --- Observa el carbón --- #2474#observar# __ #5943#carbón#
+Contiene imágenes --- Observa cubo de imágenes --- #2474#observar#__#8276#cubo de imágenes#
+Desarrollo o nudo --- Observa el nudo ---  #2474#observar#__#9180#nudo
+Se cierra el telón --- Correr la cortina ---  #37142#correr la cortina#
+dióxido de carbono --- Observa el dióxido de carbono ---  #2474#ver#__#24015#dióxido de carbono#
+8 platos de cartón --- Observar los 8 platos --- #2474#observar#__#4896#8#__#37947#platos#
+Tapamos la botella --- Yo puedo tapar la botella --- #31807#yo#__ #7221#puedo?# __#7264#tapar#__#39042#botella#
+Un pedacito de lana --- Yo quiero un pedazo de lana --- #31807#yo#__#5441#quiero#__ #27093#trozo# __#2948#lana#
+Dibujo de la planta --- Yo dibujo una planta --- #31807#yo# __ #11238#dibujo#__ #38613#planta#
+¿Qué otras conoces? --- Tú puedes comprender --- #7289#tú# __ #11697#comprender#
+Escribí la solución --- Escribir una solución --- #8107#escribir# __#37711#solución#
+Los personajes serán --- Quiénes son los artistas --- #13358#quién# __ #8477#los# __#34767#artista#
+Mención del problema --- Observar un problema --- #2474#observar# __ #5556#problema#
+Plantas ornamentales --- Observo una tienda de plantas --- #2474#observar#__#8474#un#__#38767#tienda de plantas#
+Opiné sobre el texto --- Solicitar permiso para hablar del texto --- #34697#solicitar permiso# __ #7194#para# __ #6517#hablar# __#37340#texto#
+Frasco con agua pura --- Observo un vaso de agua --- #2474#observar#__ #4768#vaso de agua#
+Mirándolos al hablar --- Observalos al hablar --- #2474#observar#__ #3345#hablar#
+¡Uy, mamá, es lejos! --- Mamá, es un lugar lejos --- #31148#madre# __ #8474#un#__ #9819#lugar# __ #36759#lejos#
+Pinto las respuestas --- Yo quiero pintar --- #31807#yo# __ #5441#quiero# __#2348#pintar#
+Palabras encadenadas --- Yo quiero amarrar --- #31807#yo# __ #5441#quiero# __#5391#amarrar#
+Brindar instrucciones --- Seguir instrucciones --- #7038#seguir# __#34705#instrucciones#
+Lee lo que dice Mateo --- Leer el libro --- #7141#leer# __ #25191#libro#
+¿Está limpia la hoja? --- Yo borro la hoja de papel ---  #31807#yo# __#2286#borrar##__ #8349#papel#
+¿Quiénes lo observan? --- Observa quiénes son --- #2474#observar#__ #9857#quiénes#
+Trabajo con la familia --- Yo trabajo en familia --- #31807#yo# __#16087#trabajo# __ #38601#familia#
+¿Quieres ir a mi casa? --- Vámonos a casa --- #32940#vámonos a casa#
+¿Qué se dice en ellos? --- ¿Qué dices? --- #11611#¿Qué dices?#
+¿Qué texto voy a leer? --- Solicitar permiso para leer--- #34697#solicitar permiso# __#7194#para# __#28643#leer#
+Para dar instrucciones --- Seguir las instrucciones --- #7038#seguir# __ #34705#instrucciones#
+Ser oyentes receptores --- Nosotros escuchamos --- #31674#nosotros# __ #2381#oír#
+Observa los subtítulos --- Observa los subtítulos --- #2474#observar#__ #28301#subtítulo#
+Podríamos usar esa foto --- Yo quiero coger la foto --- #31807#yo#__ #5441#quiero# __ #10148#coger#__ #8476#la# __#7107#foto#
+Esperamos nuestro turno --- Esperar en fila tu turno --- #35187#esperar en fila# __ #7289#tú# __ #7158#turno#
+¿Qué vamos a describir? --- Yo quiero explicar --- #31807#yo# __#5441#quiero# __#8579#explicar#
+¿Quiénes me escucharán? --- ¿Alguien me escucha? --- #37779#alguien# __ #6632#me#__ #2381#escuchar#
+Escribir una conclusión --- Escribir una conclusión --- #31807#yo# __#5441#querer# __ #28429#terminar#__#8107#escribir#
+Evaluamos y comunicamos --- Compartir una idea --- #32862#compartir una idea#
+Leo el texto del cuadro --- Leo el texto --- #31680#leer# __#37340#texto#
+Derecho a la privacidad --- Vida privada --- #32788#vida privada#
+Durante la participación --- Yo quiero participar --- #31807#yo#__ #5441#quiero# __#11475#participar#
+Energía que posee la luz --- Yo quiero encender la luz --- #31807#yo#__ #5441#quiero# __ #8103#encender la luz#
+Me enamoré del atletismo --- Me gusta el atletismo --- #38891#gustar# __ #22773#atletismo#
+¿Dónde lo puedo comprar? --- Yo quiero comprar --- #31807#yo#__ #5441#quiero# __ #8985#comprar#
+¿Qué tipo de máquina es? --- La máquina de trabajo --- #8476#la#__ #25652#máquina# __ #7074#de# __ #16087#trabajo#
+Escribimos las respuestas --- ¿Cuál es el resultado? --- #32775#¿Cuál es el resultado?#
+Significado de Ecosistema --- Observar la naturaleza --- #2474#observar# __ #20389#medio ambiente#
+Antes de la participación --- Antes de participar --- #32745#antes# __ #7074#de# __ #11475#participar#
+¿A quiénes está dirigida? --- ¿Quiénes participan? --- #9857#quiénes# __ #11475#participar#
+¿Qué especies participan? --- ¿Qué animales veo? --- #22620#qué# __ #6901#animales# __ #26150#veo veo#
+Intercambié ideas con mis --- Intercambio frases --- #31955#cambio# __ #27768#frase#
+¡Un lugar muy interesante! --- Un lugar hermoso --- #8474#un#__ #32598#lugar# __ #11194#bonito#
+Mi pelota es tan brillante --- Mi pelota grande --- #31807#yo# __ #3241#pelota# __ #4658#grande#
+¿Qué información colocarás? --- Observa la información --- #2474#observar# __ #8476#la# __ #9897#información#
+Cómo es el lugar donde vive --- Vámonos a casa--- #32940#vámonos a casa#
+Si voy a presentar un poema --- Me gusta la poesía --- #38889#gustar#__ #8476#la#__ #22763#poesía#
+¿Qué tipo de texto leeremos? --- ¿Qué expresa el libro? --- #22620#qué# __ #9692#decir#__ #25191#libro#
+Escribo la posible respuesta --- Escribo una carta --- #2380#escribir# __ #8474#un# __ #36356#carta a papa noél#
+Leemos afiches publicitarios --- Leer un cartel --- #28643#leer#___ #8474#un# __ #8064#publicidad#
+Escribe tu texto descriptivo --- Escribir un texto --- #8107#escribir# __ #8474#un# __ #37340#texto#
+¿Cómo se escribe una crónica? --- ¿Cómo se escribe un cuento? --- #22619#cómo# __ #7033#ellos# __ #8107#escribir# __ #8474#un# __ #6470#cuento#
+Sigue la estructura del texto --- Continuar con el texto --- #24998#continuar# __ #7064#con# __ #37340#texto#
+¿Qué dificultades encontramos? --- ¿Lo ves difícil? --- 11619#¿lo ves?# __ #31888#difícil#
+Guíate de los pasos anteriores --- Elaborar lo anterior --- #11698#producir# __ #27319#anterior#
+Lee con atención las oraciones --- Leer con atención --- #28643#leer# __ #7064#con# __#24863#atención# 
+Duerme por lo menos ocho horas --- Dormir mis 8 horas --- #2369#dormir# __ #12266#mis# __ #4896#8# __#38797#24 horas#
+Expresé mis ideas con claridad --- Compartir una idea --- #32862#compartir una idea#
+Observamos y leemos el esquema --- Observar y leer --- #2474#observar# __ #3171#y# __ #31680#leer#
+¿Qué aprendí en esta actividad? --- ¿Qué entendí del texto? --- #22620#qué# __ #11697#entender# __#11712#del#__ #37340#texto#
+Lee las preguntas y respóndelas --- Leer y responder las preguntas --- #7141#leer#__ #3171#y#__ #9031#responder#__ #8477#los# __#7217#pregunta#
+Participamos en una mesa redonda --- Participamos en una conversación --- #11486#participación#__ #7074#de# __ #8474#un# __ #23402#diálogo#
+Ensaya cómo contarás tu anécdota --- Yo quiero contar un cuento --- #31807#yo# __ #5441#quiero# __ #38631#contar un cuento#
+Aquí cerca no encontrarán flores --- Yo quiero comprar flores --- #31807#yo# __ #5441#quiero# __ #8986#comprar# __ #7105#flores#
+Subrayamos la respuesta correcta --- Subrayar la palabra correcta --- #6219#subrayar# __ #8476#la# __#9837#palabra# __#21381#correcto#
+Lee el texto y observa la imagen --- Leer el texto y observar la imagen --- #7141#leer#__ #37340#texto# __#3171#y# __ #2474#observar# __ #8476#la# __#34995#imagen 3d#
+Abre la cortina y verás lo que es --- Descorrer la cortina --- #37143#descorrer la cortina#
+Hablamos con entonación apropiada --- No gritar --- #5526#no# __ #31125#gritar#
+Leo las indicaciones y las realizo --- Leo la actividad y la hago --- #7141#leer# __ #8476#la# __ #8008#actividad# __ #3047#y# __ #32751#hacer#
+Empleamos un tono de voz apropiado --- Cuidado con el ruido --- #25618#cuidado# __ #7064#con# __ #8476#el# __ #36165#ruidoso#
+Gracias a Dios, vimos nacer el Sol --- Mira el amanecer --- #2474#mirar# __ #8476#el# __ #3175#amanecer#
+¿Cuál es el tema de la infografía? --- Escribir el nombre del niño --- #37407#escribir el nombre# __ #11712#del# __ #7176#niño#
+¿Para qué se utilizará este texto? --- Yo quiero utilizar el cuaderno de comunicacion --- #5441#quiero# __ #16155#utilizar el cuaderno de comunicación# 
+Construimos un aromatizador casero --- Yo quiero construir un edificio --- #5441#quiero# __ #2713#construir# __ #8474#un# __ #35655#edificio#
+Utilizamos un tono adecuado de voz --- Yo no discuto --- #7309#yo# __ #5526#no# __ #4634#discutir#
+¿Quiénes elaboran estos productos? --- Yo quiero elaborar queso fresco --- #5441#quiero# __ #11698#elaborar# __ #38046#queso fresco#
+¿Cuál es la utilidad de las poleas? --- Qué es una polea --- #32771#qué es?# __ #8474#una# __ #26334#polea#
+¿Qué han investigado sobre el tema? --- Yo quiero investigar el robo --- #5441#quiero# __ #15320#investigar# __ #8476#el# __ #8209#robo#
+Ustedes pueden participar vigilando --- Nosotros vigilamos --- #31672#nosotros# __ #8718#vigilar# 
+Relacionar las imágenes con el tema --- Relaciona los animales --- #23763#relacionar# __ #8477#los# __ #6901#animales#
+¿De qué creen que tratará el texto? --- Adivinar el cuento --- #36151#adivinar# __ #8476#el# __ #6472#cuento#
+¿Qué deseas comunicar en tu afiche? --- Elaborar un cartel --- #11698#elaborar# __ #8474#un# __ #8065#cartel#
+A las estudiantes y los estudiantes --- Estudiante de salida --- #32665#estudiante# __ #7074#de# __ #26411#salida#
+¿Qué hecho mencionan en la noticia? --- Atención a la noticia --- #24863#atención# __ #7041#a# __ #8476#la# __ #8229#noticias#
+Trabajo con tu profesora o profesor --- Atención a la profesora --- #24863#atención# __ #7041#a# __ #8476#la# __ #2456#profesora#
+Acompaña tu respuesta con un dibujo --- Hacer  un dibujo --- #11749#hacer# __ #8474#un# __ #8088#dibujar#
+¿Qué sabemos de la pesca en el mar? --- Yo quiero pescar  --- #5441#yo quiero# __ #6592#pescar#
+¿Cómo entrevistarías a una persona? --- Yo quiero entrevistar --- #5441#quiero# __ #6492#entrevistar#
+Organicen un debate sobre este tema --- Organizar una fiesta de la espuma --- #35653#organizar# __ #8474#una# __ #38448#fiesta de la espuma#
+¿Quiénes escucharán la descripción? --- Yo quiero escuchar musica --- #5441#yo quiero# __ #37486#escuchar música#
+¿Quiénes escucharán tu declamación? --- Observa la obra de teatro --- #2474#observar# __ #8476#la# __ #11319#obra de teatro#
+Observamos el texto de la página 188 --- Observa la pagina web --- #2474#observar# __ #8476#la# __ #16913#página web#
+Luego, respondan oralmente en equipo --- Hoy todos a exponer --- #7131#hoy# __ #36081#todos#__ #7041#a# __ #9870#exposición#
+Observa y lee la siguiente situación --- Observa al niño trabajar --- #2474#observar# __ #11709#al# __ #7176#niño# __ #2599#trabajar#
+¿Qué sentido utilizan para observar? --- El sentido de ver --- #8476#el# __ #30194#sentidos# __ #7074#de# __ #2474#ver#
+Lavar la tela hasta que quede blanca --- Lavar la ropa blanca --- #2442#lavaropas# __ #8476#la# __ #37944#ropa blanca#
+¿Para qué se habrá escrito el texto? ---  yo quiero hacer pis --- #5441#yo quiero# __ #4880#hacer pis#
+¿Mostré la información ordenadamente? --- ordenado los libros --- #4707#ordenado# __ #8477#los# __ #6641#libros#	
+¿Dónde brindaremos las instrucciones? --- seguir las instrucciones --- #7038#seguir# __ #8477#las# __ #34705#instrucciones#
+¿Qué conocemos acerca del aguaymanto? --- Te gusta el aguacate --- #6625#te# __ #31861#gustar# __ #8476#el# __ #8009#aguacate#
+¿Qué necesita una planta para crecer? --- La flor crece rápido --- #8476#la# __ #7104#flor# __ #23991#crece# __ #5306#rápido#
+Expresamos con respeto nuestras ideas --- Respetar a todos --- #36720#respetar# __ #7041#a# __ #36081#todos#
+Tiempo de experimentación: Una semana --- Yo invento un experimento --- #2617#yo# __ #6019#inventar# __ #8474#un# __ #8119#experimento#
+Los observamos e intentamos doblarlos --- Doblar la hoja de papel --- #5544#doblar# __ #8476#la# __ #8349#papel#
+¿En qué consisten esas celebraciones? --- Visitar la iglesia --- #4772#visitar#  __ #8476#la# __ #30903#iglesia#
+Ya quiero empezar a leer estos textos --- Yo quiero leer el santo evangelio --- #5441#yo quiero# __ #30875#lectura del Santo Evangelio#
+En el lado izquierdo de la infografía --- Colocar la toalla a la izquierda --- #11745#colocar toalla# __ #7041#a# __ #8476#la# __ #4672#izquierda#
+Presentación del producto alimenticio --- Observa el portacepillo de dientes --- #2474#observar# __ #8476#el# __ #37946#portacepillo de dientes#
+Participé en función de las preguntas --- responder la pregunta --- #9030#responder# __ #8476#la# __ #7217#pregunta#
+Cómo elaborar un collar shipibo-conibo --- Diseño un auto --- #21800#diseñar# __ #8474#un# __ #2339#auto#
+Al comienzo, no tuvo buenos resultados --- Observo la receta del postre  --- #2474#observar# __ #8476#la# __#7805#receta# __ #11712#del# __ #7216#postre#
+Estudiamos las fuerzas y el movimiento --- Estudiamos la biblia --- #2387#estudiar# __ #8476#la# __ #23833#biblia#
+¿Usarás un lenguaje formal o informal? --- Ausencia de lenguaje --- #37638#ausencia de lenguaje#
+Materia prima de la cerámica de Quinua --- Yo quiero crear una cerámica --- #5441#yo quiero# __ #11698#crear# __ #8474#una# __ #36147#cerámica#
+¿Cuántas viñetas tendrá la historieta? --- Observa el dibujo animado --- #2474#observar# __ #8476#el# __ #8089#dibujos animados#
+En mi casa se consumen estos alimentos --- Almuerzo en la mesa --- #28206#almuerzo# __ #7034#en# __ #8476#la# __ #3129#mesa#
+Evita salirte del tema de la narración --- No te distraigas --- #5526#no# __ #6625#te# __ #8552#distraer#
+Si eres niña, puede gustarte la cocina --- Yo quiero  cocinar --- #5441#yo quiero# __ #2342#cocinar#
+Registro la información en mi cuaderno --- Anoto en mi cuaderno --- #8490#anotar# __ #7034#en# __ #12264#mi# __ #2359#cuaderno#
+¿En qué orden participarán los equipos? --- Juntarnos en equipo --- #26817#juntar# __ #7034#en# __ #15264#equipo#
+Resolví las preguntas de lasactividades --- Resolver el examen --- #37711#resolver# __ #8476#el# __ #38462#exámen#
+Se llevan las cosas, los animales, todo --- Ordenar la maleta --- #2872#ordenar# __ #8476#la# __ #11297#maleta#
+¿Qué significa la palabra "tecnología"? --- Observa la tecnologia --- #2474#observar# __ #8476#la# __ #11459#tecnología#
+Anoté datos de las anécdotas escuchadas --- Escucha los chistes --- #28659#escuchar# __ #8477#los# __ #21537#chiste#
+¿Cómo se llama el producto alimenticio? --- Observa el queso de cabra --- #2474#observar# __ #8476#el# __ #35765#queso de cabra#
+Ambos eran hermanos, hijos del dios Sol --- Mis hermanos --- #12266#mis# __ #34511#hermanos#
+¿Cómo se organiza un foro de discusión? --- Ir a la mesa del congreso --- #8142#ir# __ #7041#a# __ #8476#la# __ #37569#mesa del congreso#
+Nos preparamos para leer una historieta --- Estudiamos la historia del Perú --- #2387#estudiar# __ #8476#la# __ #32634#historia# __ #11712#del# __ #8185#Perú#
+¡Amigas y amigos, mi nombre es Esteban! --- Hola amigos ! --- #6009#hola# __ #2255#amigos#
+¿Qué ilumina a la Tierra durante el día? --- Miedo a la oscuridad --- #10261#miedo# __ #7041#a# __ #8476#la# __ #8643#oscuridad#
+Informar acerca de los derechos del niño --- Derechos del niño --- #11247#derechos# __ #11712#del# __ #6975#niños#
+¿Para qué les brindaremos instrucciones? --- seguir las instrucciones --- #7037#seguir# __ #8477#las# __ #34705#instrucciones#
+Revisa lo que lograste en esta actividad --- Ganar la medalla --- #10155#ganar# __ #8476#la# __ #3128#medalla#
+Puede expresarse en forma oral o escrita --- Yo quiero conversar --- #5441#yo quiero# __ #6517#conversar#
+Puede expresarse en forma oral o escrita --- Yo quiero escribir --- #5441#yo quiero# __ #8107#escribir#
+Elaboramos la versión final del tríptico --- Elaboramos una pintura --- #11698#elaborar# __ #8474#una# __ #25413#pintura#
+¿Quisieras expresarlo en una infografía? --- Observa los gráficos --- #2474#observar# __ #8477#los# __ #9174#gráfico#
+¿Cómo se reproducen? --- Las plantas se reproducen --- #11572#plantas# __ #26381#reproducción# 
+Mezcla Combinación --- Mezclar la pintura --- #5515#mezclar# __ #8476#la# __ #4870#pintura#
+Detalle de facturación --- Pagar la factura --- #6457#pagar# __ #8476#la# __ #5995#factura#
+Antes de la entrevista --- Vestirme para la entrevista --- #27052#vestir# __ #7194#para# __ #8476#la# __ #6492#entrevistar#
+Las iglesias de Quinua --- Dónde está la iglesia --- #32872#¿dónde está?# __ #8476#la# __ #3118#iglesia#
+Elementos de mi afiche --- Que observas en el cartel --- #22620#qué# __ #2474#observar# __ #7034#en# __ #8476#el# __ #8064#cartel#
+Las ferias comerciales --- Vamos a la feria --- #32954#vamos a la tienda# __ #7041#a# __ #8476#la# __ #4649#feria#
+Investigué sobre el tema --- Yo quiero investigar --- #5441#yo quiero# __ #15320#investigar#
+Es altamente energizante --- Yo soy fuerte --- #31807#yo# __ #4655#fuerte#
+¿De qué trata el afiche? --- Cuidado con la electricidad --- #25618#cuidado# __ #7064#con# __ #8476#la# __ #24798#electricida#
+Evita desviarte del tema --- Evita distraerte --- #24031#evitar# __ #8552#distraer#
+¿Cómo podrán averiguarlo? --- ¿Busco informacion? --- #6946#buscar# __ #16037#información#
+Otros recursos expresivos --- Observa los medios de comunicacion --- #2474#observar# __ #8477#los# __ #12347#medios de comunicación#
+¿Qué contiene el tríptico? --- Qué observas en la tablet --- #22620#qué# __ #2474#observar# __ #7034#en# __ #8476#la# __ #28099#tablet#
+¿Quiénes leerán el afiche? --- ¿Quiénes leerán el poster? --- #13358#quiénes# __ #31680#leer# __ #8476#el# __ #28881#póster#
+El agua brota del subsuelo --- Observa el agua del manantial --- #2474#observar# __ #8476#el# __ #32464#agua# __ #11712#del# __ #24154#manantial#
+¿Qué debo hacer para ello? --- ¿yo puedo ayudarte? --- #31807#yo# __ #16125#puedo ayudarte?#
+¿Qué conozco sobre el tema? --- Yo sé las tareas domesticas --- #31807#yo# __ #9034#saber# __ #8477#las# __ #36347#tareas domésticas#
+Puno y la crianza de ovinos --- Yo alimento a mi ovejas --- #31807#yo# __ #11176#alimentar# __ #7041#a# __ #12264#mi# __ #2489#oveja#
+¿Qué es un lugar turístico? --- De la oveja hacemos la lana --- #7074#de# __ #8476#la# __ #2489#oveja# __ #11749#hacer# __ #8476#la# __ #2948#lana#
+Tenemos varias lecturas más --- Tenemos muchos libros --- #32761#tener# __ #7168#muchos# __ #6641#libros#
+Puede ser solo una o ninguna --- Yo no quiero nada --- #6156#yo no quiero# __ #29839#nada#
+¡Visita el pueblo de Quinua! --- ¡Visita el pueblo de la quinua! --- #4772#visitar# __ #8476#el# __ #2823#pueblo# __ #7074#de# __ #8476#la# __ #38527#quinua#
+¿La infografía tiene título? --- Observa el grafico de la computadora --- #2474#observar# __ #8476#el# __ #9174#gráfico# __ #7074#de# __ #8476#la# __ #7214#computadora#
+Las líneas ondeadas del logo --- Observa la línea ondulada ---  #2474#observar# __ #8476#la# __ #4682#línea ondulada#
+¿Cuál será nuestro propósito? --- Mi Proyecto de vida --- #12264#mi# __ #25721#Proyecto de vida#
+Su carne es blanca y exquisita --- Observa la carne envasada de pavo --- #2474#observar# __ #8476#la# __  #36691#carne envasada de pavo#
+¡juntos aprendamos a reciclar! --- Todos reciclamos el papel --- #36081#todos# __ #38580#reciclado de papel#
+Ellas cumplen la misma función --- Señalé los órganos --- #36964#señalar# __ #8477#los# __ #24214#órganos#
+¿Qué plantas hay en su chacra? --- Observa los árboles del campo --- #2474#observar# __ #8477#los# __ #3057#árbol# __ #11712#del# __#2683#campo#
+Energía del sol (energía solar)	--- Energía eólica --- #26061#energía eólica#
+Sobre sus fortalezas personales --- Mis fortalezas --- #12266#mis __ #36539#fortaleza#
+Disminución de especies marinas --- Extincion de animales marinos --- #34633#extinción# __ #7074#de# __ #35853#animales marinos#
+Después de brindar instrucciones --- El tiempo vuela --- #33054#el tiempo vuela#
+Tráeme una papita a la huancaína --- Tráeme una papa asada --- #7280#traer# __ #8474#una# __ #36425#papas asadas#
+Garras: largas, curvas y afiladas --- Las aves tienen las garras grandes --- #8477#las# __ #6923#aves# __ #32761#tener# __ #8477#las# __ #5477#garra# __ #4658#grande#
+Código QR --- Observa el Código QR --- #2474#ver# __ #8476#el# __ #38514#qr#
+Su profesora --- Escuchar a la maestra --- #2381#oír# __ #2456#maestra#
+Un cuento --- Yo quiero leer un cuento --- #5441#quiero# __ #7141#leer# __ #8474#un# __ #6469#cuento#
+2 frascos --- Yo quiero comprar 2 frascos de leche --- #5441#quiero# __ #8986#hacer la compra# __ #7027#2# __ #3322#frasco# __ #2445#leche#
+El asalto --- prohibido robar --- #32366#prohibido# __ #22088#robar#
+el Sol --- Observa el sol --- #2474#observar# __ #2798#sol#
+la polea --- Observa la polea --- #2474#ver# __ #8476#la# __ #26334#polea#
+Lo anoto --- Yo escribo en un papel --- #7309#yo# __ #8107#escribir# __ #7034#en# __ #8474#un# __ #8349#papel#
+Las anoto --- Yo escribo en un papel --- #7309#yo# __ #8107#escribir# __ #7034#en# __ #8474#un# __ #8349#papel#
+la Luna --- Observa la luna --- #2474#ver# __ #8476#la# __ #2933#luna#
+1 limón --- Hola yo quiero 1 limón --- #6009#hola# __ #5441#quiero# __ #7291#uno# __ #3022#limón#
+Soy Luz --- Yo quiero encender la luz --- #5441#quiero# __ #8103#encender la luz#
+3 horas --- Esperamos 3 horas --- #8109#esperar# __ #7283#3# __ #38797#24h#
+1 regla --- Hola yo quiero comprar 1 regla --- #6009#hola# __ #5441#quiero# __ #8986#hacer la compra# __ #7291#uno# __ #2815#regla#
+1 aguja --- Hola yo quiero comprar 1 aguja --- #6009#hola# __ #5441#quiero# __ #8986#hacer la compra# __ #7291#uno# __ #2639#aguja#
+1 olla --- Hola yo quiero comprar 1 olla --- #6009#hola# __ #5441#quiero# __ #8986#hacer la compra# __ #7291#uno# __ #9086#olla#
+Las anoto --- Yo escribo en un papel --- #7309#yo# __ #8107#escribir# __ #7034#en# __ #8474#un# __ #8349#papel#
+Jugador 1 --- Hola yo quiero 1 jugador de futbol --- #6009#hola# __ #5441#quiero#  __ #7291#uno# __ #36545#jugar al fútbol#
+la Tierra --- Observa la tierra --- #2474#ver#  __ #8476#la# __ #30014#tierra#
+Una cuchilla --- Yo quiero comprar 1 cuchilla ---  #6009#hola# __ #5441#quiero# __ #7291#un# __ #2726#cuchilla#
+El recreo --- Hola yo quiero salir al recreo --- #6009#hola# __ #5441#quiero# __ #2806#salir# __ #11709#al# __ #33064#recreo#
+Al narrar --- Escuchamos con atención el cuento --- #2381#escuchar# __ #7064#con# __ #24863#atención# __ #8476#el# __ #6470#cuento#
+Yo me voy --- Adiós --- #5896#Adiós#
+Se agotan --- se acabó --- #28429#terminar#
+Los anoto --- Yo escribo en un papel --- #7309#yo# __ #8107#escribir# __ #7034#en# __ #8474#un# __ #8349#papel#
+Me evalúo --- Hola yo quiero estudiar --- #6009#hola# __ #5441#quiero# __ #2387#estudiar#
+¿Por qué? --- ¿por qué? --- #36719#por qué# 
+Leí casos --- Yo quiero leer textos --- #5441#quiero# __ #7141#leer# __ #8476#el# __ #37340#texto#
+polo sur --- Dónde está el polo sur --- #32872#¿dónde está?# __ #8476#el# __ #6188#polo sur#
+CD usado --- Observa el cd --- #2474#observar# __ #8476#el# __ #2322#cd#
+Sí, mamá --- Sí, mamá --- #5584#sí# __ #2458#mamá#
+Tú elige --- Tu turno de elegir --- #31801#tú# __ #22190#turno# __ #7074#de# __ #30510#escoger#
+Veo videos --- Miro los videojuegos --- #2474#mirar# __ #8477#los# __ #25614#videojuego#
+Pasar café --- Yo quiero una taza de café --- #5441#quiero# __ #8474#una#__ #2581#taza de café#
+LOS MUROS --- Observa el muro grande --- #2474#ver# __ #8476#el# __ #8266#muro# __ #4658#grande# 
+Lo escribo --- Yo quiero escribir --- #5441#quiero# __ #8107#escribir#
+ROBOT LI --- Observa al robot --- #2474#observar# __ #11709#al# __ #6208#robot#
+Un poema --- Hola yo quiero escribir un poesía --- #6009#hola# __ #5441#quiero# __ #8107#escribir# __ #8474#una#  __ #22763#poesía#
+¿Qué come? --- Hola yo quiero comer --- #6009#hola# __ #5441#quiero# __ #2349#comer#
+Mi nombre es --- Hola, cual es tu nombre --- #6009#hola# __ #27353#¿cuál es tu nombre?#
+Explica cómo --- Hola, no entiendo --- #6009#hola# __ #27363#no entiendo#
+Son mascotas --- Observa a las mascotas ---  #2474#ver# __ #8477#las# __ #25654#mascotas#
+Menciona uno --- Elige uno --- #30510#escoger# __ #7291#1#
+¿Dónde vive? --- Hola, ¿dónde vives? ---  #6009#hola# __ #11603#¿dónde vives?#
+¡Oigan este! --- Escuchen la radio --- #2381#escuchar# __ #8476#la# __ #38211#botón de radio#
+Día del Niño --- celebración --- #7099#fiesta#
+¿Cómo están? --- Hola, ¿como están? --- #6009#hola# __ #10273#¿cómo estás?#
+Lo hice bien --- Tú lo terminaste --- #31801#tú# __ #6481#lo# __ #32814#terminar#
+Glóbulo rojo --- Observa el glóbulo rojo --- #2474#observar# __ #8476#el# __ #39165#glóbulos rojos#
+¡Ese soy yo! --- Mira ese soy yo --- #2474#mirar# __ #7091#ese# __ #31807#yo#
+Tu periódico --- mira el periódico --- #2474#mirar# __ #2845#periódico#
+El balneario --- Observa el mar --- #2474#observar# __ #8476#el# __ #2925#mar#
+flor --- Mira la flor -- #2474#mirar# __ #8476#la# __ #7104#flor#
+abeja --- Mira la abeja --- #2474#mirar# __ #8476#la# __ #2239#abeja#
+Leo el texto --- Yo leo el texto --- #31807#yo#__ #31680#leer# __ #8476#el# __ #37340#texto#
+No se agotan --- Se acabaron las entradas --- #28429#acabar# __ #8477#las# __ #38374#entrada#
+Juana, mira. --- La niña mira --- #8476#la# __ #32845#niña# __ #2474#mirar#
+Sí, es fácil --- Observa, es facil --- #2474#observar# __ #32302#fácil#
+Debe mejorar --- Te sentiste avergonzado --- #6625#te# __ #36736#sentir vergüenza ajena#
+Dato curioso --- Mira el mensaje de whatapp --- #2474#mirar# __ #8476#el# __ #37867#chatear#
+¿Sabías que? --- Te contaré un cuento --- #6625#te# __ #38631#contar un cuento#
+Poeta cubano --- Observa al cantante ---#2474#observar# __ #11709#al# __ #4585#cantante#
+A distancia --- Lejos de casa --- #36759#lejos# __ #7074#de# __ #6964#casa#
+Plumón negro --- Mira el color negro --- #2474#mirar# __ #8476#el# __ #2886#negro#
+3 kilogramos --- Observa los 3 kilogramos --- #2474#observar# _ #8477#los# __ #7283#3# __ #7138#kilogramo#
+Balde grande --- Observa el balde de agua ---   #2474#observar#  __ #8476#el# __ #35605#balde de agua#
+Sí lo cuidan --- Yo guardo la ropa --- #31807#yo# __ #37938#guardar ropa#
+Alimentación --- Yo como los alimentos --- #31807#yo# __ #2349#comer# __ #8477#los# __ #4610#comida#
+nutria --- Observa la nutria --- #2474#observar# __ #8476#la# __ #6158#nutria#
+pez --- Observa al pez --- #2474#observar# __ #11709#al# __ #2520#pez#
+Los anotamos --- Anoto en mi cuaderno --- #8490#anotar# __ #7034#en# __ #8476#el# __ #2359#cuaderno#
+¿Cómo actué? -- No interrumpir la conversación --- #5526#no# __ #37419#interrumpir la conversación#
+Dedos largos --- Observa mis dedos largos --- #2474#observar# __ #12266#mis# __ #9826#dedos# __ #26162#largo# 
+Lo dibujamos --- Yo quiero dibujar --- #5441#quiero# __ #8088#dibujar#
+tinte blanco --- Observa la tinta --- #2474#observar# __ #8476#la# __ #37754#tinta#
+3 beterragas --- Observa las 3 beterragas --- #2474#observar# __ #8477#las#0 __ #7283#3# __ #26370#remolacha#
+¿Qué quiero? --- te gusto --- #6625#te# __ #7124#gustar#
+Destinatario --- Quien es el destinario del email --- #10276#quién# __ #8476#el# __ #37434#destinatario del email#
+Poleas fijas --- Las poleas son pesadas --- #8477#las# __ #26334#polea# __ #27025#pesado#
+Diploma de amistad --- Observa el diploma --- #2474#observar# __ #8476#el# __ #27724#diploma#
+Un periódico mural --- Observa el periodico mural --- #2474#observar# __ #8476#el# __ #36011#mural#
+Marca tu respuesta --- Señala el color rojo --- #6612#señalar# __ #8476#el# __ #2808#rojo#
+hojas de periódico --- Observa el periodico --- #2474#observar# __ #8476#el# __ #2845#periódico#
+¿Qué aprenderemos? --- ¿Entendiste? --- #16659#entender#
+Y su madre le dice --- Obedece a la mamá --- #22007#obedecer# __ #7041#a# __ #8476#la# __ #2458#mamá#
+Si te toca relatar --- Cuenta el cuento --- #6461#contar# __ #8476#el# __ #8346#cuento#
+Vinagre con aceite --- Observa el vinagre --- #2474#observar# __ #8476#el# __ #5605#vinagre#
+Vinagre con aceite --- Observa el aceite --- #2474#observar# __ #8476#el# __ #8481#aceite#
+¿Cómo las resolví? --- Resolver el examen --- #37711#resolver# __ #8474#el# __ #38462#exámen#
+Son medio de carga --- Observa el autobus --- #2474#observar# __ #8476#el# __ #38090#autobús#
+El árbol del cacao --- Observa el arbol navidad --- #2474#observar# __ #8476#el# __ #3058#árbol de navidad#
+Hablar en voz baja --- Hablar sin gritar --- #6517#hablar# __ #7813#sin# __ #4686#gritar#
+¿Quién lo recibió? --- Recibimos el pan --- #17044#recibir# __ #8476#el# __ #2494#pan#
+Observo y respondo --- Observo y respondo --- #2474#observar# __ #3171#y# __ #9030#responder#
+El oso de anteojos --- Observa el oso panda --- #2474#observar# __  #8476#el# __ #2869#oso panda#
+Hugo y el pez Azul --- El niño y el pez --- #8476#el# __ #2485#niño# __ #3171#y# __ #8476#el# __ #2520#pez#
+¡Ánimo, tú puedes! --- Tú eres exitoso --- #31801#tú# __ #11599#éxito#
+Cartulina de color --- Observa la cartulina de color rojo --- #2474#observar# __ #8476#la# __ #17208#cartulina# __ #2808#rojo#
+sentido del olfato --- sentido del olfato --- #30194#sentidos# __ #7074#de# __ #2486#olfatear#
+caja de plastilina --- Observa la plastilina --- #2474#observar# __ #8476#la# __ #2529#plastilina#
+Trabajo en familia --- Trabajo en familia ---  #37866#trabajo en grupo# __ #7064#con# __ #8476#la# __ #2392#familia#
+lápices de colores --- Observa los lapices de colores --- #2474#observar# __ #8477#los# __ #17016#lápices de colores#
+Describir un lugar --- Mira el paisaje --- #2474#mirar# __ #8476#el# __ #10304#paisaje#
+Observa el ejemplo --- Observa el problema --- #2474#observar# __ #8476#el# __ #32304#problema#
+Eso está buenísimo --- Eso es muy rico --- #7091#eso# __ #25708#muy# __ #32340#rico#
+Podemos usar telas --- Usar abrigo para el frio --- #15485#usar# __ #8122#abrigo# __ #7194#para# __ #8476#el# __ #35583#frío#
+Mencionar el autor --- Quién es el escritor --- #10276#quién# __ #8476#el# __ #11258#escritor#
+Luego, respondemos --- Luego respondo --- #32749#luego# __ #9030#responder#
+corriente eléctrica --- Cuidado con la corriente electrica --- #25618#cuidado# __ #7064#con# __ #8476#la# __ #24798#electricidad#
+botella de plástico --- Observa la botella de metal --- #2474#observar# __ #8476#la# __ #38604#botella de metal#
+Horno para cerámica --- Observa el horno --- #2474#observar# __ #8476#el# __ #2426#horno#
+¿Por qué me atacas? --- No pegar al amigo --- #5526#no# __ #24749#pegar# __ #11709#al# __  #8487#amigo#
+Recicla los envases --- Yo quiero reciclar --- #31807#yo# __ #5441#quiero# __ #27212#reciclar#
+¿Cómo aprenderemos? --- Yo quiero aprender --- #31807#yo# __ #5441#quiero#  __ #26636#aprender#
+¿Qué quiero lograr? --- Yo quiero jugar al ajedrez --- #31807#yo# __ #5441#quiero# __ #25181#jugar al ajedrez#
+Formación geológica --- Observar el martillo geológico --- #2474#observar# __ #8476#el# __ #34306#martillo de geólogo#
+Como actor o actriz --- Observa  la actriz --- #2474#observar#__ #8476#la# __ #4555#actriz#
+Planteen soluciones --- Yo quiero buscar huevos de pascua --- #31807#yo# __ #5441#quiero# __ #37453#buscar huevos de Pascua#
+2 papelotes blancos --- Yo quiero comprar 2 papeles --- #31807#yo# __ #5441#quiero# __ #8986#comprar#__ #7027#2# __ #2398#papeles#
+Expongo sobre ellos --- Yo quiero exponer --- #31807#yo# __ #5441#quiero# __ #9870#exponer#
+Completa la oración --- Completa la frase --- #13078#completar# __ #8476#la#  __ #27768#frase#
+Pensó, pensó, pensó --- Yo pienso --- #31807#yo# __ #31847#pensar#
+Semillas de calidad --- Observa las semillas de sesamo --- #2474#observar# __ #8476#la# __ #39192#sésamo#
+Subrayo en el texto --- Subrayo en el texto --- #6219#subrayar# __ #8476#el# __ #37340#texto# 
+Nombre de la planta --- Nombre de la planta --- #38570#nombre# __ #7074#de# __ #8476#la# __ #3143#planta#
+Reutilizamos objeto --- Reutilizamos un objeto --- #36441#reutilizar# __ #8474#un# __ #11318#objeto#
+Viven en Sudamérica --- Vivo en Sudamérica --- #7302#vivir# __ #7034#en# __ #34387#Sudamérica#
+¿Trabajé en equipo? --- ¿Trabajé en grupo? --- #37543#trabajo en grupo#
+Separemos la basura --- Recogemos la basura --- #38459#recoger basura#
+¿Qué animal escogí? --- ¿Qué animal escogí? --- #22620#qué# __ #6901#animales# __ #30510#escoger#
+¡Cuántos productos! --- ¡Cuántos productos! --- #24731#cuántos# __ #32582#objetos#
+Lista de materiales --- Lista de objetos --- #7144#lista# __ #7074#de# __ #32582#objetos#
+¿Seguir estudiando? --- ¿Seguir estudiando? --- #27331#seguir# __ #6495#estudiar#
+Escriban un ejemplo --- Escriban una carta --- #8107#escribir# __ #8474#una# __ #2688#carta#
+Agradece al público --- Agradece al público --- #38783#agradecer# __ #11709#al# __ #24783#público#
+PÉRDIDAS ECONÓMICAS --- Objetos perdidos --- #16159#objetos perdidos#
+Preparar materiales --- Preparar pollo con papas --- #6190#preparar# __ #29195#pollo con papas#
+¡Vamos a preguntar! --- Yo quiero preguntar --- #31807#yo# __ #5441#quiero# __ #9843#preguntar#
+Si te tocó escuchar --- Vamos a la tienda --- #32954#vamos a la tienda#
+Luego, los comparto --- Compartir una idea --- #32862#compartir una idea#
+Para seguir leyendo --- Seguimos leyendo --- #27331#seguir# __ #31680#leer#
+Plumones de colores --- Yo tengo lápiz y papel --- #31807#yo# __ #7271#tener# __ #10312#lápiz y papel#
+Déjame hacerlo solo --- Lo hice solo --- #6481#lo# __ #11749#hacer# __ #7253#solo#
+Nombre del familiar --- Nombre del familiar --- #7061#nombre# __ #7074#de#  __ #31146#papá#
+¿Para qué expondré? --- ¿Para qué expondré? --- #7194#para# __ #22620#qué# __ #9870#exponer#
+No sabían qué hacer --- ¿Que hora es? --- #37370#¿qué hora es?#
+¿Qué partes tienen? --- ¿Partes del cuerpo? --- #29145#partes del cuerpo#
+Hábitats terrestres --- Observa el desierto --- #2474#observar# __ #8476#el# __ #2734#desierto#
+Leo mis anotaciones --- Leer mis anotaciones --- #31680#leer# __ #12266#mis# __ #8490#anotar#
+Marca la respuesta --- Marcar al celular --- #4691#marcar# __ #11709#al# __ #2586#celular#
+¿Quiénes lo leerán? --- ¿Quiénes lo leerán? --- #9857#quiénes# __ #6481#lo# __ #31680#leer#
+Completa las frases --- Completa las frases --- #15816#completar# __ #8476#la# __ #27768#frase#
+¿Qué sabes de ella? --- ¿La conoces? --- #8476#la# __ #6993#conocer#
+Si te toca escuchar --- Yo, presto atención --- #7309#yo# __ #24711#prestar atención#
+El Caballero Carmelo --- El caballero --- #5406#caballero#
+¿Cómo las superamos? --- Ganar el partido--- #19531#ganar __ #8476#el# __ #6170#partido#
+¿De qué se alimenta? --- ¿De qué se alimenta? --- #7074#de# __ #22620#qué# __ #11176#alimentar#
+Explicación del tema --- Explicación del curso --- #8579#explicar# __ #8476#el# __ #23404#curso#
+Elaboraré un esquema --- Elaborar un diseño --- #11698#elaborar# __ #8474#un# __ #21800#diseñar#
+¿Qué cultivos ataca? --- El cultivo está listo --- #8476#el#__ #38079#cultivo# __ #36392#estar# __ #32820#estoy listo#
+¿Dónde está escrito? --- ¿Dónde escribiré? --- #7764#dónde# __ #8107#escribir#
+Colar los tallarines --- Colar los tallarines --- #2345#colador# __ #8477#los# __ #25486#tallarines#
+¡Muy bien, muy bien! --- ¡Muy Bien! --- #11599#muy bien#
+Mi ficha informativa --- Mi ficha informativa --- #2474#observar# __ #12264#mi# __ #10310#ficha#
+Diseña tu infografía --- Crea tu foto de perfil --- #11698#crear# __ #28307#foto de perfil#
+¡Ya no te preocupes! --- ¡te veo preocupada! --- #6625#te# __ #2474#observar# __ #28713#preocupada#
+¿Cómo lo resolvimos? --- Lo resolveré -- #6481#lo# __ #37711#resolver#
+Expongan sus razones --- Exponer una duda --- #9870#exponer# __ #8474#una# __ #11696#duda#
+¿Cómo leí el afiche? --- ¿Cómo aprender a nadar --- #22619#cómo# __ #26638#aprender a nadar#
+Insumos y materiales --- Observa el material escolar --- #2474#observar# __ #8476#el# __ #34153#material escolar#
+¿Cuál es el mensaje? --- ¿Escribir un mensaje? --- #8107#escribir# __ #8474#un# __ #37340#mensaje escrito#
+Preguntaré por ellos --- Donde están ellos --- #32872#¿dónde está?# __ #7033#ellos#
+Realizaría un debate --- Organizaré una reunión --- #35653#organizar# __ #8474#una# __ #8207#reunión#
+¿Les gustó el poema? --- Te gustó el libro de poesía y arte --- #6625#te# __ #37826#gustar# __ #8476#el# __ #6642#libros de poesia y arte#
+¿Cómo es su siembra? --- ¿Cómo se siembra? --- #22619#cómo# __ #7245#siembra#
+1 botella de alcohol --- 1 bebida de alcohol --- #7291#1# __ #26626#bebida con alcohol#
+Continúen dialogando --- Continúen dialogando --- #24998#continuar# __ #3345#dialogar#
+¿Por qué se celebra? --- Qué celebramos  --- #22620#qué# __ #6969#celebrar#
+¿Dónde está ubicada? --- Dar una dirección --- #17040#dar# __ #8474#una# __ #30231#dirección#
+Yo estoy listo para comer --- Yo estoy listo para comer --- #2617#yo# __ #32820#estoy listo# __ #36655#preparado para comer#
+¿Para qué la harías? --- Hacemos un regalo --- #11749#hacer# __ #8474#un# __ #3149#regalo#
+Plantas alimenticias --- Plantas aromáticas --- #39101#plantas aromáticas#
+Es amena y divertida --- Tú te diviertes  --- #6625#tú# __ #7290#te# __ #36482#divertida#
+2 varillas de vidrio --- Observo una rama  --- #2474#observar# __ #8474#una# __ #7224#rama#
+¿Cuál es su función? --- El auto no funciona --- #8476#el# __  #2339#auto# __ #5526#no# __ #37038#funcionar#
+Cerámica de Ayacucho --- Cuidado con la cerámica--- #25618#cuidado# __ #7064#con# __ #8476#la# __ #36147#cerámica#
+¡Y qué divertida es!  --- Narrar una historia divertida --- #38631#narrar una historia# __ #24733#divertido#
+¿Te gusta tu nombre? --- Escribe tu nombre --- #37407#escribir el nombre#
+Si les toca escuchar --- Prestar atención --- #25355/prestar atención#
+Sueño de la mariposa --- Observo una mariposa --- #28673#/observar# __ #8474#una# __ #2465#mariposa#
+Tipo de reproducción --- Cómo se reproducen --- #22619#cómo# __ #26380#reproducirse#
+Me preparo para leer --- Cómo aprender matemáticas --- #22619#cómo# __ #37810#aprender# __ #32554#matemáticas#
+¡Debemos protegerla! --- Nosotros nos protegemos --- #7186#nosotros# __ #38809#proteger#
+Cambiar su dirección --- Cambio de turno --- #34713/cambio de turno#
+Sí, está interesante --- Me interesa --- #7309#me# __ #37709#interesar#
+¿Cómo es su cosecha? --- Yo quiero cosechar --- #5441/yo quiero# __ #9043#cosechar#
+Si te toca conversar --- Todos a conversar --- #36081#todos# __ #7041#a# __ #37217#conversar#
+¿Cómo es una iguana? --- Observar la iguana --- #2474#observar# __ #8476#la# __ #26134#iguana#
+¿Cómo puede hacerlo? --- Cómo Hacer pis --- #22619#cómo# __ #3429#hacer pis#
+Colorea la respuesta --- Colorea el sol --- #348#colorear# __ #8476#el# __ #2798#Sol#
+Tenemos ideas claras --- Pensar con calma --- #38796#pensar# __ #7064#con# __ #36688#calmar#
+Leemos sobre el tema --- Leer historia del arte --- #31680#leer# __ #36928#historia del arte#
+Al por mayor y menor --- rebajas para todos --- #6202#rebajas# __ #7194#para# __ #36081#todos#
+¿Tiene una moraleja? --- Dar educación --- #17040#dar# __ #38021#educación#
+¿Con qué los pintan? --- Pintar con temperas --- #5574#pintar# __ #7064#con# __ #35793#témperas#
+Desarrollo económico --- Observa las monedas --- #2474#observar# __ #8477#las# __ #4574#económico#
+¿Qué están haciendo? --- hacer ruido --- #38945#hacer ruido#
+¿Quiénes estuvieron? --- ¿Quiénes asistieron? --- #13358#quiénes# __ #21385#asistir#
+Acciones principales --- Cual es tu trabajo --- #11601#¿cuál es tu trabajo#
+Plantas industriales --- Fábrica gasolinera  --- #35393#fábrica# __ #32404#gasolinera#
+¡Hay que participar! --- ¡yo no quiero participar! --- #6156#yo no quiero# __ #11475#participar#
+¡Nuestro compromiso! --- ¡Nuestro boda! --- #12268#nuestra# __ #8256#boda#
+Hoy hay trucha frita --- Comer trucha --- #28641#comer# __ #7820#trucha#
+Lee lo que dice Lili --- Obedece a la maestra --- #22007#obedecer# __ #7041#a# __ #7029#la# __ #28003#maestra#
+Mencionen un ejemplo --- Cita previa --- #24610#cita previa#
+¿Qué voy a escribir? --- Yo no quiero escribir  --- #6156/yo no quiero# __ #8107#escribir# 
+Subrayo mi respuesta --- Subrayo la letra --- #6219#subrayar# __ #8476#la# __ #39235#letra#
+Es el cuerpo central --- señalar el corazón --- #36964#señalar# __ #8476#el# __ #2715#corazón#
+Mi texto instructivo --- Texto educativo --- #37340#texto# __ #8098#educación#
+Reutilizamos objetos --- Reutilizamos objetos --- #36441#reutilizar# __ #11318#objetos#
+¿Qué hechos suceden? --- Festividades importantes --- #32800#fiestas# __ #22627#importante#
+al escribir el texto --- escribir el título --- #37406#escribir el título#
+¿Qué podremos jugar? --- ¿Jugamos a la pelota? --- #35371#jugar a la pelota#
+¿Dónde se encuentra? --- ¿Dónde está? --- #32872#¿dónde está?#
+¿Tan distinta estás? --- Cambio de tema --- #11199#cambio de tema#
+¿Qué objeto observo? --- ¿Qué objeto veo? --- #22620#qué# __ #11318#objeto# __ #2474#ver#
+150 gramos de azúcar --- 5 kilogramos de azúcar --- #6979#5# __ #7138#kilogramo# __ #7074#de# __ #25560#azúcar#
+Tiene muchos colores --- Colores y formas --- #32586#colores y formas#
+Qué es un Ecosistema --- Observa la naturaleza  --- #2474#observar# __ #8476#la# __ #20389#naturaleza#
+Leemos todo el texto --- Completar el texto --- #15816#completar# __ #8476#el# __ #7340#texto#
+Observamos la imagen --- Imagen personal --- #31418#imagen personal#
+Introducción y tesis --- Leer la introducción --- #28643#leer# __ #8476#la# __ #38145#introducción#
+Rastrillo para hojas --- Rastrillo para hojas -- #6200#rastrillo# __ #7194#para# __ #28571#hojas secas#
+nombre de la escuela --- Mi colegio --- #12264#mi# __ #3082#colegio#
+Artículo informativo --- noticia informativa --- #7784#noticia# __ #35389#informativo#
+El ahorro de energía --- Ahorrar dinero --- #4556#ahorrar# __ #4630#dinero#
+Cuidamos el ambiente --- Protegemos el medio ambiente --- #8809#proteger# __ #8476#el# __ #20389#medio ambiente#
+Ensayen la discusión --- Danza clásica --- #32560#danza clásica#
+Alimentos formadores --- Desayunar antes del mediodía --- #28667#desayunar# __ #32848#antes del mediodía#
+Exponemos los textos --- Exponemos las etapas de vida --- #9870#exponer# __ #8477#las# __ #37854#etapas de la vida#
+cartulinas blancas A4 --- cartulinas grandes --- #27659#cartulinas# __ #4658#grande#
+Diseñé la alternativa --- Diseñadora de moda --- #38759#diseñadora de moda#
+Las estaciones de año --- Las estaciones --- #8477#las# __ #5464#estaciones#
+Planteamos un ejemplo --- Exponemos los trabajos manuales --- #9870#exponer# __ #8477#los# __ #24769#trabajos manuales#
+Lista de nuevas cosas --- Objetos nuevos --- #11318#objetos# __ #11316#nuevo#
+Reflexiono y respondo --- Yo quiero meditar --- #5441#yo quiero# __ #32689#meditar#
+Se presentan acciones --- Yo quiero denunciar  --- #5441#yo quiero# __ #34695#denunciar#
+Observen este ejemplo --- Observen la tienda de animales --- #2474#observar# __ #8476#la# __ #16980#tienda de animales#
+cartulinas recicladas --- Reciclado de papel --- #38580#reciclado de papel#
+Escuché las opiniones --- visión borrosa --- #32054#visión borrosa#
+¿Dónde se desarrolló? --- observar la sinagoga --- #2474#observar# __ #8476#la# __ #24408#sinagoga#
+¼ de kilo de cal viva --- ¼ de kilo de calcio --- #5436#1/4# __ #7074#de# __ #7138#kilogramo# __ #25898#calcio#
+Con máquina compuesta --- Máquina de bebidas --- #37529#máquina de bebidas#
+Utiliza textos breves --- Utiliza un plato pequeño --- #15485#utilizar# __ #8474#un# __ #34088#plato pequeño#
+¿Cómo logré aprender? --- Yo quiero lanzar un dardo --- #5441#yo quiero# __ #28727#lanzar un dardo#
+¿Han visto un afiche? --- Peligro eléctrico --- #8656#peligro eléctrico#
+¿Cómo puedo evitarlo? --- Yo quiero evitar caerme patinando --- #5441#yo quiero# __ #24031#evitar# __ #31150#caerse patinando#
+Escribí la conclusión --- Fin de semana  --- #27329#fin de semana#
+La anécdota de Camila --- Crujirse los dedos  --- #31382#crujirse los dedos#
+Exponer con voz clara --- Voz digitalizada --- #11685#voz digitalizada#
+¿Cuáles son sus usos? --- Prohibido usar el ascensor  --- #24651#prohibido usar el ascensor#
+¿Qué debemos mejorar? --- Mejorar los números --- #11705#mejorar# __ #8477#los# __ #34771#números#
+Anoto las sugerencias --- Anotar las sugerencias --- #8490#anotar# __ #8474#una# __ #11576#sugerencia#
+Propiedades de la luz --- Registro de la propiedad --- #37870#registro de la propiedad#
+Explicamos brevemente --- Explicamos rápido --- #35669#explicar# __ #5306#rápido#
+Cuerpos transparentes --- Cuerpos geométricos --- #9109#cuerpos geométricos#
+Los numero del 1 al 5 --- Los números --- #8477#los# __ #34771#números#
+Atractivos turísticos --- Lugares para pasear --- #32598#lugares# __ #7194#para# __ #31839#pasear#
+Dibujo de las agallas --- Clase de ética y valores  --- #34709#clase de ética y valores#
+Al escuchar el cuento --- Escuchar el cuento --- #2381#escuchar# __ #8476#el# __ #2364#cuento#
+Retirar la carne --- Retirar la carne --- #25405#retirar# __ #8476#la# __ #2316#carne#
+Desglosa este diploma ---  Recibir el diploma --- #17042#recibir# __ #8476#el# __ #27724#diploma#
+A partir de la imagen --- Iniciar a colorear  --- #5431#iniciar# __ #7041#a# __ #2348#colorear#
+Hablamos y escuchamos --- Hablamos y escuchamos --- #3345#hablar# __ #3047#y# __ #28659#escuchar#
+Elegimos uno de ellos --- Elegir 1 --- #11694#elegir# __ #7291#uno#
+Respondemos oralmente --- Responder la carta --- #10176#responder# __ #8476#la# __ #2688#carta#
+Explica cómo funciona --- Explica cómo funciona --- #8579#explicar# __ #22619#cómo# __ #37038#funcionar#
+Utilidad del producto --- Poca utilidad --- #5546#poco# __ #17036#utilidad#
+Lean lo que dice Lili --- Leer el santo evangelio --- #30875#lectura del Santo Evangelio#
+Proporcionan alimento --- La Vaca da leche --- #8476#la# __ #2609#vaca# __ #28431#dar# __ #2445#leche#
+3 cucharaditas de sal --- 3 cucharas de sal --- #7283#3# __ #8546#cucharada# __ #7074#de# __ #25576#sal#
+Estatura y contextura --- Cuánto mides --- #33102#¿cuánto mide?#
+Durante de la lectura --- Durante la lectura --- #7081#durante# __ #8476#la# __ #2447#lectura#
+Recordamos los hechos --- Acudir al taller de memoria ---  #11708#acudir# __ #11709#al# __ #24680#taller de memoria#
+los derechos del niño --- los derechos del niño ---- #11247#derechos# __ #11712#del# __ #7176#niño#
+¿Cómo lo registramos? --- Registro de la propiedad --- #37870#registro de la propiedad#
+el clima en la Tierra --- el clima en la Tierra --- #8476#el# __ #24721#clima# __ #7034#en# __ #8476#la# __ #30014#tierra#
+Pinta lo que lograste --- terminar de pintar --- #32814#terminar# __ #7074#de# __ #2836#pintar#
+Luego lo socializamos --- Yo no quiero amigos  --- #6156#yo no quiero# __ #2255#amigos#
+Luego lo socializamos --- Nueva información --- #11316#nueva# __ #16037#información#
+Presentación del tema --- Presentación clase de matemáticas --- #9870#presentación# __ #36373#clase de matemáticas#
+Salvemos a las abejas --- Salvemos a las abejas --- #38316#salvar# __ #7041#a# __ #8476#la# __ #2239#abeja#
+Leemos un bello poema --- Leemos un bello poema --- #7141#leer# __ #8474#un# __ #11194#bello# __ #22763#poesía#
+Tú me lamerás la cara --- No chuparse el dedo --- #5526#no# __ #15353#chupar# __ #8476#el# __ #3298#dedo#
+¿Para qué escribirás? --- ¿Puedo escribir? --- #7221#puedo?# __ #2380#escribir#
+Al público en general --- Público atento --- #24783#público# __ #24863#atención#
+¿Qué es una anécdota? --- No entiendo el chiste --- #24863#no entiendo# __ #8476#el# __ #21537#chiste#
+Tiene datos completos --- Datos completos  --- #30010#Datos personales#
+Alimentos reguladores --- Alimentos y bebidas --- #32602#alimentos y bebidas#
+Después, los pintamos --- Luego pintamos --- #32749#luego# __ #27976#pintar#
+El turismo en peligro --- Turismo rural peligroso --- #28926#turismo rural# __ #25315#peligro#
+Justiﬁca tu respuesta --- Explicar una idea --- #35669#explicar# __ #6531#tener una idea#
+¿Cómo es el producto? --- Explicar el tablero de comunicación --- #35669#explicar# __ #8476#el# __ #31882#tablero de comunicación#
+¿Cómo las resolvimos? --- Cómo resolverlo --- #22619#cómo# __ #37711#resolver#
+Es un texto narrativo --- Narrar una historia --- #38631#narrar una hi0010storia#
+Antes de la narración --- Antes de leer --- #32745#antes# __ #7074#de# __ #31680#leer#
+El zorro y las ovejas --- Zorro y oveja --- #2623#zorro# __ #3047#y# __ #2489#oveja#
+Reflexiona y responde --- Tomar conciencia --- #12351#tomar conciencia#
+¡Un lugar muy bonito! --- ¡Un lugar muy bonito! --- #8474#un# __ #32598#lugar# __ #11194#bonito#
+Respondo lo siguiente --- Respondo amablemente --- #28433#responder# __ #33994#amable#
+Te invito a conocerla --- Te invito a mi cumpleaños --- #11287#invitar# __ #7041#a# __ #12264#mi# __ #37363#cumpleaños#
+regla o cinta métrica --- Observa la regla y compas --- #2474#observar# __ #8476#la# __ #34065#regla y compás#
+Durante la exposición --- Durante la exposición, hago silencio --- #7081#durante# __ #8476#la# __ #9870#exposición# __ #25453#silencio#
+¿Cuál es el problema? --- No discutir --- #5526#no# __ #4634#discutir#
+El Sol nos los brinda --- El Sol da calor --- #8476#el# __ #2798#sol# __ #6952#calor#
+Escribir la hipótesis --- Escribir una nota --- #8107#escribir# __ #8474#una# __ #7187#nota#
+Extinción de especies --- Extinción de animales marinos --- #34633#extinción# __ #7074#de# __ #35853#animales marinos#
+Cola sintética o goma --- Goma elástica --- #37718#goma elástica#
+Dibujamos las plantas --- Dibujamos las plantas --- #8088#dibujar# __ #8477#las# __ #11572#plantas#
+¿por qué creemos eso? --- Yo soy cristiano --- #31807#yo# __ #25033#cristiano#
+¿A quién describirán? --- ¿Quienes dibujan? --- #13358#quienes# __ #8550#dibujante#
+¿Cómo son sus flores? --- Observa la rosa --- #2474#observar# __ #3151#rosa#
+Marcamos con un visto --- Marcar a papá --- #4691#marcar# __ #7041#a# __ #31146#papá#
+¿por qué lo creo así? --- Yo quiero afirmar --- #5441#yo quiero# __ #34521#afirmar#
+¿A quién describirás? --- Describir una pelota --- #11717#describir# __ #8474#una# __ #3241#pelota#
+cartulinas de colores --- cartulinas de colores --- #17208#cartulina# __ #7074#de# __ #5968#colores#
+Preparamos el recital --- Organizar una obra de teatro --- #35653#organizar# __ #8474#una# __ #11319#obra de teatro#
+Agentes contaminantes --- La contaminación --- #8476#la# __ #7066#contaminación#
+Respondemos el saludo --- Respondemos el saludo --- #28433#responder# __ #8476#el# __ #4740#saludo#
+Al elaborar el afiche --- Elaborar un cartel --- #11698#elaborar# __ #8474#un# __ #8065#cartel#
+¡Riéndome con mi tío! --- Reirme con mi tío --- #38792#reír a carcajadas# __ #7064#con# __ #6632#mí# __ #30255#tío#
+tiras de cinta gruesa --- Cinta adhesiva --- #27681#cinta adhesiva#
+Fuente de información --- Fuente de agua --- #37035#fuente de agua#
+¿Cuál es su historia? --- Guerra de la independencia --- #36925#Guerra de la Independencia#
+El orgulloso Cojinova --- El orgulloso Lenguado --- #8476#el# __ #31408#orgulloso# __ #21957#lenguado#
+¡Corre que se acaban! --- ¡Corre que se acaba el papel higienico! --- #2719#correr# __ #39089#acabar el papel higiénico#
+Cesto pequeño de paja --- Cesto pequeño de paja --- #34486#cesto# __ #4716#pequeño# __ #7074#de#  __ #6163#paja#
+¿Qué es el urbanismo? --- Llegar al vecindario --- #16807#llegar# __ #11709#al# __ #26529#vecindario#
+¿Qué está ocurriendo? --- Dar paso --- #10154#dar paso#
+¿Cómo se confecciona? --- ¿Cómo se confecciona? --- #22619#cómo# __ #37202#confección#
+Mirar a los presentes --- Mirar a los ojos --- #36333#mirar a los ojos#
+Cuerpo de información --- Crear nueva información --- #11698#crear# __ #11316#nueva# __ #9899#información#
+estados de la materia --- estados de la materia --- #36327#estados de la materia#
+Hola, amigas y amigos --- Hola, ¿cómo te va? --- #6009#hola# __ #11597#¿cómo te va?#
+¿Qué frases usaremos? --- Observa la frase --- #2474#observar# __ #8476#la# __ #27768#frase#
+¿Quiénes lo elaboran? --- ¿Quiénes lo hacen? --- #13358#quiénes# __ #6481#lo# __ #32751#hacer#
+¿Qué texto escribiré? --- Escribir una fecha --- #27411#escribir una fecha#
+Estructura del afiche --- Partes del cartel --- #9877#partes# __ #11712#del# __ #8064#cartel#
+Pishi perdió el rumbo --- Orientar mi camino al colegio --- #34707#orientador# __ #6632#mí# __ #38917#camino escolar#
+Producir calor y frío --- calor y frío --- #35561#calor# __ #3047#y# __ #35583#frío#
+300 gramos de piedras --- Observo muchas piedras --- #2474#observar# __ #7168#muchas# __ #28585#piedras#
+Elabora tu infografía --- Escribir tus datos personales --- #8107#escribir# __ #6625#tú# __ #9702#datos personales#
+Público que escuchará --- Atención al público  --- #24541#atención al público#
+Lee y revisa tu texto --- Revisa tu examen --- #6998#revisar# __ #6625#tú# __ #38462#exámen#
+Dibujé los materiales --- Dibujé un niño --- #11238#dibujo# __ #8474#un# __#7176#niño#
+Canasta para juguetes --- Cesta para juguetes --- #3012#cesta# __ #7194#para# __ #32568#juguetes#
+Cuerpo o cuestionario --- Tener en cuenta la pregunta --- #12349#tener en cuenta# __#8476#la# __ #7217#pregunta#
+Manguera transparente --- Observa la manguera de incendios --- #2474#observar# __ #8476#la# __ #36413#manguera de incendios#
+El ratoncito bailarín --- El raton bailador --- #8476#el# __ #2546#ratón# __ #24727#bailador#
+Media cáscara de nuez --- Cáscara de huevo --- #6966#cáscara# __ #7074#de# __ #38868#huevo#
+nuestro departamento? --- El departamento de comunicación --- #8476#el# __ #37570#departamento de comunicación# 
+Usamos menos plástico --- No tocar plástico --- #11595#no tocar# __ #10288#plástico#
+¿Cómo se defenderían? --- Defender a mis compañeros --- #6192#defender# __ #7041#a# __ #12266#mis# __ #7062#compañeros#
+¿Dónde se encuentran? --- ¿Dónde vamos? --- #7079#¿dónde vamos?#
+¿Estás lista o listo? --- Estar sentado --- #25082#estar sentado#
+¿Qué poema elegiremos? --- Elige un poema --- #6483#elegir# __ #8474#un# __ #22763#poesía#
+Escribimos una noticia --- Escribimos una noticia --- #8107#escribir# __ #8474#una# __ #7784#noticia#
+en noche de luna llena --- luna llena --- #10294#luna llena#
+¿Han visto la noticia? --- Mirar las noticias --- #2474#mirar# __ #8477#las# __ #8229#noticias#
+1 botellón de plástico --- 1 botella --- #7291#1# __ #39043#botella#
+Revisamos y corregimos --- Revisar el examen--- #6998#revisar# __ #8476#el# __ #38462#exámen#
+La hormiga y la trucha --- La hormiga y la trucha --- #8476#la# __ #2425#hormiga# __ #3047#y# __ #8476#la# __ #7820#trucha#
+¿Me recuerdan, verdad? --- ¿Me recuerdas? --- #2617#me# __ #37369#recordar#
+Escribe tus cualidades --- Escribe tus cualidades --- #8107#escribir# __ #12283#tus# __ #32584#cualidades#
+Extracción de fundente --- Soldar el metal --- #8696#soldar# __ #8476#el# __ #6148#metal#
+¡Mi nombre es Esteban! --- ¿Cuál es tu nombre? --- #38575#¿cuál es tu nombre?#
+Terminaste otra unidad --- Terminar la clase de química --- #28429#terminar# __ #8476#la# __ #36374#clase de química#
+Mi afiche publicitario --- Mira la publicidad ---  #2474#mirar# __ #8476#la# __ #8064#publicidad#
+Terminaré diciendo que --- Terminar de estudiar --- #28429#terminar# __ #7074#de# __ #35979#estudiar#
+Abono natural empleado --- Oficina de empleo --- #24638#oficina de empleo#
+Socializamos en equipo --- Salimos con amigos --- #28689#salir# __ #7064#con# __ #2255#amigos#
+¿Qué comen los pollos? --- Qué come el pollo --- #22620#qué# __ #6456#comer# __ #8476#el# __ #2533#pollo#
+la ardilla nuca blanca --- Observa la ardilla --- #2474#observar# __ #8476#la# __ #25815#ardilla#
+Recitamos con claridad --- Cantar un himno --- #28657#cantar# __ #8474#un# __ #38000#himno#
+Estas serán las orejas --- Observa mi oreja --- #2474#observar# __ #6632#mi# __ #2871#oreja#
+¿Qué están cosechando? --- Qué cosechan --- #22620#qué# __ #9043#cosechar#
+Un gusto o preferencia --- Me gustas --- #2617#me# __ #37721#gustar#
+Recorta y arma el cubo --- Recorta el cubo --- #25379#recortar# __ #8476#el# __ #8308#cubo#
+¡Vamos a inscribirnos! --- Me inscribiré --- #2617#me# __ #9901#inscripción#
+¿Usé verbos en pasado? --- Hablar con verbos --- #6517#hablar# __ #7064#con# __ #7297#verbos#
+¿Cuál será el titular? --- Escribir el titulo despacio --- #37406#escribir el título# __ #4676#despacio#
+¿Cómo puedo ordenarlo? --- Cómo ordenar --- #22619#cómo# __ #2872#ordenar#
+¿Qué significa cuenca? --- Qué es un valle --- #32771#qué es?# __ #8474#un# __ #6238#valle#
+¿Qué sé sobre el tema? --- Yo no sé de la clase de matemáticas --- #7180#yo no sé# __ #7074#de# __ #8476#la# __ #10260#clase de matemáticas#
+Fecha de la exposición --- Fecha de la exposición --- #34799#fecha# __ #7074#de# __ #8476#la# __ #9870#exponer#
+Realicen su exposición --- Organizar la exposición --- #35653#organizar# __ #8476#la# __ #9870#exponer#
+Antes de la exposición --- Usar saco antes de exponer --- #15485#usar# __ #3296#saco# __ #32745#antes# __ #7074#de# __ #9870#exponer#
+Lean lo que dice Lucía --- Escuchar a los amigos --- #2381#escuchar# __ #7041#a# __ #8477#los# __ #2255#amigos#
+situación comunicativa --- cuaderno de comunicación --- #7004#cuaderno de comunicación#
+Los dioses de la pesca --- Nosotros pescamos  --- #7185#nosotros# __ #6592#pescar#
+Contaminan el ambiente --- Contaminar el pueblo --- #7065#contaminar# __ #8476#el# __ #38586#pueblo#
+¿Sentí algo diferente? --- Sentir envidia --- #30196#sentir# __ #36911#envidia#
+Vuelvo a leer el texto --- Vuelvo a leer el texto --- #38249#botón de volver# __ #7041#a# __ #7141#leer#
+¿A quién irá dirigida? --- Enviar un paquete --- #21828#enviar# __ #8474#un# __ #38946#paquete#
+¿Pondremos una imagen? --- Colocamos un cuadro --- #32757#colocar# __ #8474#un# __ #2360#cuadro#
+Perforamos un orificio en el centro del corcho para que la manguera lo atraviese --- Perforamos un corcho y lo colocamos con la manguera  --- #24420#perforadora# __ #8474#un# __ #32656#corcho# __ #11399#y# __ #32757#colocar# __ #7064#con# __ #2929#manguera#
+¿Qué importancia tiene la labor efectuada por las estudiantes y los estudiantes? --- ¿importancia del estudio en los niños? --- #11470#importante# __ #36055#estudio# __ #6975#niños#
+Observamos los dibujos y escribimos cómo se llaman los elementos que necesitamos --- Observamos los dibujos y escribimos que son --- #2474#observar# __ #32518#dibujo# __ #8107#escribir# __ #32771#qué es?#
+Lee nuevamente el texto con una compañera o un compañero y realicen lo siguiente --- Lee nuevamente el texto con un amigo --- #7141#leer# __ #37163#de nuevo# __ #37340#texto# __ #8487#amigo#
+Conocida como el Paraíso, aquí podrás disfrutar de unas vacaciones gratificantes --- Observa el cielo, podrás tener unas vacaciones hermosas --- #2474#observar# __ #38270#cielo# __ #32761#tener# __ #39112#vacaciones# __ #11194#hermosa#
+¿Consideran que las niñas y los niños se expresan de forma respetuosa y ordenada? --- Los niños deben expresarse de forma respetuosa --- #8477#los# __ #6975#niños# __ #9692#expresar# __ #36720#respetar#
+Revisamos nuestra hipótesis y la comparamos con los datos del cuadro y el gráfico --- Relacionamos los centros de datos con el gráfico  --- #23763#relacionar# __ #8477#los# __ #35645#centro de datos# __ #7064#con# __ #9174#gráfico#
+Dialogar considerando el propósito comunicativo y utilizando un lenguaje adecuado --- Conversar sin gritar --- #37217#conversar# __ #7813#sin# __ #7120#gritar#
+Escribimos la versión final del mapa informativo incluyendo los cambios sugeridos --- Escribimos en el mapa lo más importante --- #8107#escribir# __ #24161#mapa# __ #11471#importante#
+Les tenía mucho miedo a las niñas y los niños de mi edad, y también a los adultos --- Yo tengo miedo de los niños y adultos --- #2617#yo# __ #39248#miedo# __ #6975#niños# __ #11399#y# __ #6887#adultos#
+Aquí experimentados alfareros imparten sus conocimientos a los jóvenes ceramistas --- Trabajadores en cerámica nos enseñan --- #7795#trabajadores# __ #7034#en# __ #32622#cerámica cardial# __ #11308#enseñar#
+Estar elaboradas con alta tecnología para que funcionen un largo periodo de tiempo --- Lo elaboran con mucha energía para que duren las 24 horas --- #11698#elaborar# __ #26059#energía# __ #17050#durar# __ #38797#24h#
+En la escuela, la profesora pregunta a sus estudiantes sobre los peces que conocen --- En la escuela, la maestra pregunta  sobre los peces --- #3082#escuela# __ #2456#maestra# __ #9844#preguntar# __ #7199#peces#
+Pide la palabra y, con respeto, opina o pregunta sobre aquello que no comprendiste --- Levanta la mano y pregunta sobre lo que no entendiste --- #9034#levantar la mano# __ #36051#preguntar# __ #27363#no entiendo#
+Intercambia tu texto con una compañera o un compañero, revísalo y bríndale aportes --- Intercambia tu texto con los compañeros --- #31953#intercambiar# __ #37340#texto# __ #7064#con# __ #847#los# __ #7062#compañeros#
+No entiendo cómo hay gente que escribe en las paredes de esta fortaleza ceremonial --- No escribir en la pared --- #34341#no# __ #8107#escribir# __ #2860#pared#
+El queso fresco o "quesillo serrano" es uno de los productos derivados de la leche --- El queso proviene de la leche  --- #8476#el# __ #4881#queso# __ #7074#de# __ #2445#leche#
+Además, viajar te permite dejar la rutina de todos los días para hacer cosas nuevas --- Viaja y sal de la casa --- #4671#viajar# __ #11399#y# __ #2806#salir# __ #7074#de# __ #6964#casa#
+Materiales: Una botella de gaseosa oscura, dos vasos y un hueso de pollo muy limpio --- Observa la botella y el vaso --- #2474#observar# __ #8476#la# __ #2288#botella# __ #11399#y# __ #2610#vaso#
+El FPS (factor de protección solar) indica cuánto tiempo nos podemos exponer al sol --- Usamos protector solar para protegernos del sol  --- #15485#usar# __ #21568/protector solar# __ #6192#proteger# __ #11712#del# __ #7252#Sol#
+Escuchó una voz que lo llamaba y atraído por ella se acercó tratando de encontrarla --- Escucho a alguien entrar sin llamar  --- #2381#escuchar# __ #37779#alguien# __ #31374#entrar sin llamar#
+Organizo mis ideas a partir de las siguientes preguntas para organizar mi exposición --- Organizo mis preguntas para la exposición --- #35653#organizar# __ #12264#mi# __ #7217#pregunta# __ #9870#exposición#
+Se utilizó un lenguaje sencillo para transmitir el mensaje de manera clara y concisa --- Enviamos un mensaje fácil y corto --- #21828#enviar# __ #37340#mensaje escrito# __ #32302#fácil# __ #11399#y# __ #26002#corto#
+¿Qué características tienen las máquinas utilizadas para la elaboración de cerámicas? --- Acudimos a un taller de cerámica --- #11708#acudir# __ #11709#al# __ #30975#taller de cerámica#
+Un guion teatral, como recordarás, se escribe para ser representado frente al público --- El público mira la obra de teatro  --- #8476#el# __ #24783#público# __ #6564#mirar# __ #11319#obra de teatro#
+Percibe su tono de voz, los gestos que emplea para comunicarse y su lenguaje corporal --- Mira su postura correcta --- #6564#mirar# __ #32270#postura correcta#
+Luego, muestro la segunda versión a mi profesora o profesor y escucho sus sugerencias --- La maestra me corrige --- #8476#la# __ #28003#maestra# __ #6632#me# __ #6998#corregir#
+Debemos cuidarlas porque su lana es una de las más finas del mundo: es de exportación --- La oveja da lana  --- #8476#la# __ #2489#oveja# __ #28431#dar# __ #2948#lana#
+Intercambiamos la primera versión de nuestra noticia con una compañera o un compañero --- Conversamos sobre la noticia --- #6517#conversar# __ #7814#sobre# __ #8476#la# __ #7784#noticia#
+Colorea las cajitas de regalo que contienen las cualidades de tu compañera o compañero --- Colorear la caja para regalar --- #2348#colorear# __ #8476#la# __ #37948#caja# __ #7194#para# __ #16879#regalar#
+Indico dos actividades que puedo realizar en mi escuela y comunicar mediante un afiche --- Hacer un cartel de mis actividades --- #11749#hacer# __ #8064#cartel# __ #12266#mis# __ #8008#actividades#
+El campo semántico de "flores", por ejemplo, es "tulipanes", "anturios", "astromelias" --- En el campo hay tulipanes y flores --- #7034#en# __ #8476#el# __ #2683#campo# __ #34043#tulipanes# __ #7105#flores#
+Carlota, mi tío nos explicará cómo debemos consumir los pescados para mantenernos sanos --- Cuidado con la espina del pescado --- #25618#cuidado# __ #7064#con# __ #5459#espina# __ #11712#del# __ #2519#pescado#
+El año pasado a mi equipo de trabajo le tocó organizar y ordenar la biblioteca del aula --- Organizamos la biblioteca del colegio --- #35653#organizar# __ #3065#biblioteca# __ #11712#del# __ #3082#colegio#
+Si estamos en la etapa de la adolescencia, ¿ya no podemos jugar con muñecas o carritos? --- Los adolescentes no juegan con muñecas --- #38817#adolescentes# __ #31859#no# __ #6537#jugar# __ #26238#muñeca#
+Leamos este texto y sabremos qué significa el arcoíris para algunas de nuestras culturas --- Qué es un arco iris --- #32771#qué es?# __ #2986#arco iris#
+Escribe la primera versión de tu texto teniendo en cuenta la información que organizaste --- Escribir un texto para mañana --- #8107#escribir# __ #37340#texto# __ #7194#para# __ #7152#mañana#
+Luego, pinta los delfines si cumplió con las indicaciones que se presentan en las pelotas --- Pintar un delfín en el papel --- #5574#pintar# __ #2732#delfín# __ #7034#en# __ #8349#papel#
+Observamos el siguiente caso y completamos el cuadro para comparar el clima de cada lugar --- Observamos el clima lluvioso --- #2474#observar# __ #24721#clima# __ #2936#lluvioso#
+La producción es básicamente de leche, de la cual se obtienen diversos productos lácteos --- La leche proviene de la vaca  --- #8476#la# __ #2445#leche# __ #7074#de# __ #2609#vaca#
+Nuestro planeta nos pide tomar conciencia sobre el uso de los recursos que nos proporciona --- Proteger el Medio ambiente --- #6599#proteger# __ #8476#el# __ #20389#medio ambiente#
+El mortero es un recipiente cóncavo, donde las especies y sustancias son machacadas con el --- Usar el mortero para moler ajo --- #15485#usar# __ #17275#mortero# __ #7194#para# __ #38077#moler# __ #2641#ajo#
+Pinta el recuadro que explique la causa de lo que se indica en la frase extraída del texto --- Extraer del texto la causa del problema --- #11751#extraer# __ #37340#texto# __ #12295#causa# __ #32304#problema#
+Posteriormente, grábenlo y escúchenlo atentamente para detectar si algo necesita corregirse --- La maestra corrige los exámenes --- #8476#la# __ #2456#maestra# __ #6998#corregir# __ #8477#los# __ #38462#examen#
+En su diseño, los ceramistas emplean figuras geométricas y los colores blanco, negro y rojo --- Pintar cerámica rojo y blanco --- #7207#pintar# __ #36147#cerámica# __ #2808#rojo# __ #11399#y# __ #2886#negro#
+Durante el viaje irás conociendo las habilidades y los talentos que no conocías de ti mismo --- Mira tus fortalezas --- #2474#mirar# __ #12283#tus# __ #36539#fortaleza#
+Escuchamos con atención y respeto las opiniones de nuestras compañeras y nuestros compañeros --- Respetar a los compañeros --- #36720#respetar# __ #8477#los# __ #7062#compañeros#
+Coloca en la pared o en la pizarra la imagen del lugar que describirás durante tu exposición --- Coloca en la pared el cuadro de tu exposición --- #32757#colocar# __ #2860#pared# __ #2360#cuadro# __ #21859#exposición#
+¿Qué diferencias encontramos entre las instrucciones que da la mamá y las que da el hermano? --- Obedecer siempre a mama --- #22007#obedecer# __ #17322#siempre# __ #2458#mamá#
+Conversamos con una compañera o un compañero y anotamos lo que sabemos sobre las infografías --- Pedir a un amigo sus anotaciones --- #5441#pedir# __ #8487#amigo# __ #12278#sus# __ #8490#anotar#
+La pesca es una actividad ancestral y económica que se practica en varios lugares del planeta --- La pesca es para adultos --- #8476#la# __ #11339#pesca# __ #7194#para# __  #6887#adultos#
+¿Existe alguna relación entre los alimentos que se consumen y el crecimiento de las personas? --- Comer ayuda a crecer --- #28413#comer un bocadillo# __ #19524#ayuda# __ #7002#crecer#
+Clasificar los materiales utilizados en la elaboración de los juegos del parque de diversiones --- clasificar el juego del parque --- #37361#clasificar# __ #8476#el# __ #36404#juego de las sillas#
+Preguntamos a las personas que realizan la prenda textil y organizamos las ideas en un esquema --- Diseñar una prenda --- #21800#diseñar# __ #8474#una# __ #34395#prenda#
+Lee este fragmento del afiche y marca con los recuadros con las características que se cumplen --- Leer partes del cartel --- #28643#leer# __ #9877#partes# __ #11712#del# __ #8064#cartel#
+Las raíces retienen el agua de la lluvia y permiten que se filtre hacia las aguas subterráneas --- Yo quiero regar la raíz de la planta --- #5441#yo quiero# __ #2816#regar# __ #3148#raíz# __ #3143#planta#
+La materia orgánica es la que forma parte de los seres vivos, como plantas, animales y bacterias --- Protegemos a los seres vivos --- #6599#proteger# __ #7041#a# __ #8477#los# __ #11375#seres vivos#
+Ensayo mi exposición tomando en cuenta la expresión oral (pronunciación y entonación) y corporal --- Yo quiero estudiar para la exposición  --- #5441#yo quiero# __ #35979#estudiar# __ #9870#exposición#
+Tenemos entre ellos las rimas, los trabalenguas, las adivinanzas, los acrósticos y las canciones --- Jugaremos a las adivinanzas --- #6537#jugar# __ #7041#a# __ #8477#las# __ #24829#adivinanza#
+La polea es una máquina simple que ayuda a reducir la fuerza que se necesita para mover un objeto --- Yo quiero usar la polea para mover los objetos --- #5441#yo quiero# __ #15485#usar# __ #26334#polea# __ #7167#mover# __ #32582#objetos#
+Escucharemos, también, la exposición que realicen nuestras compañeras y compañeros sobre este tema --- Escuchamos la exposición de los compañeros --- #28659#escuchar# __ #9870#exposición# __ #7062#compañeros#
+Este bosque presenta tres tipos de vegetación: matorral esclerófilo, ecotono arbóreo y bosque alto --- El bosque tiene muchas plantas --- #8476#el# __ #2666#bosque# __ #7168#muchas# __ #11572#plantas#
+Mis juegos favoritos son las escondidas y bailar con mis amigas y amigos las danzas de mi comunidad --- Yo quiero bailar con mis amigos --- #5441#yo quiero# __ #6052#bailar# __ #2255#amigos#
+Corrige tu poema según la revisión de tu compañera o compañero y escribe en una hoja la versión ﬁnal --- Corrige la poesía y compártelo con tu amigo --- #6998#corregir# __ #22763#poesía# __ #38900#compartir# __ #8487#amigo#
+Los padres o tutores, dentro de sus posibilidades, deben asegurar las condiciones de vida necesarias --- Papas son tus cuidadores --- #35060#padres# __ #12283#tus# __ #15994#cuidadores#
+Investigamos en textos o visitamos un centro de salud y preguntamos a los especialistas lo siguiente --- Visitamos un hospital cuando estamos enfermos  --- #4772#visitar# __ #38083#hospital# __ #28742#enfermo#
+Incorporamos las recomendaciones que nos hicieron y escribimos una segunda versión en nuestro cuaderno --- Recomiendo que escribas en tu cuaderno --- #37708#recomendar# __ #8107#escribir# __ #2608#tú# __ #2359#cuaderno#
+Bajó a la plaza en día de mercado y pegó un cartel en el tarantín donde vendían los mangos más sabrosos --- Salgo al mercado a comprar unos mangos ---#2806#salir# __ #32942#mercado#  __ #8986#comprar# __ #16813#mango#
+Nos preparamos para participar en la feria "Nuestras buenas prácticas con los alimentos de la comunidad" --- Me visto para ir a la feria --- #2617#me#  __ #2781#vestir# __ #31758#ir# __ #4649#feria#
+Recuerda lavarte las manos antes de comer y manipular alimentos, también después de ir al baño y de jugar --- Lávate las manos antes de comer ---  #8975#lavar las manos# __ #32745#antes# __ #6456#comer#
+Se vinculan con la compra y venta de productos y servicios a través de medios electrónicos e informáticos --- Cuidado con lo que miras por internet --- #25618#cuidado# __ #2474#mirar# __ #16913#página web#
+Es importante seguirlas porque, de esa manera, evitamos situaciones de riesgo y también mantenemos el orden --- Obedecer el reglamento --- #22007#obedecer# __ #8476#el# __ #34779#reglamento#
+Su mamá le dice que vaya a visitar a su abuelita, quien tiene su casa en lo alto de la cuesta de una montaña --- Yo quiero visitar a la abuela --- #5441#yo quiero# __ #4772#visitar# __#10194#abuela#
+Corrijo mi noticia y escribo una segunda versión en mi cuaderno teniendo en cuenta las sugerencias recibidas --- Corregir la noticia y entregar después del mediodía  --- #6998#corregir# __ #7784#noticia# __ #17038#entregar# __ #32850#después del mediodía#
+La primavera es eterna en este lugar; por eso, la vegetación muestra siempre sus mejores colores al visitante --- Bienvenida primavera  --- #6936#bienvenido# __ #5553#primavera#
+Pinto los círculos de las actividades que me ayudaron a aprender sobre los materiales, sus tipos y su utilidad --- Yo quiero pintar el círculo --- #5441#yo quiero# __ #2348#pintar# __ #8476#el# __ #4603#círculo#
+Observemos y leamos lo que Lucas dice en su exposición durante la campaña de difusión de los derechos del niño --- Observamos en silencio la exposición --- #2474#observar# __ #5936#silencio# __ #9870#exposición#
+La niña se pone muy triste, pero su papá la consuela diciéndole que hay una forma de separar el aceite del agua --- La niña se pone triste --- #32845#niña# __ #11959#triste#
+Echamos goma en la letra con la que comienza nuestro nombre y la forramos, enrollando la lana alrededor de la letra --- Ponemos goma en la hoja --- #32757#poner# __ #2409#goma# __ #8349#papel#
+Realizamos un desfile de los planetas y explicamos las características de cada uno a los asistentes a nuestro evento --- Acudimos a un desfile  --- #11708#acudir# __ #7041#a# __ #8474#un# __ #36663#desfile de carnaval#
+Organiza y combina los textos, las imágenes,los colores, las formas y los tamaños para facilitar una mejor comprensión --- Organiza los colores y formas  --- #35653#organizar# __ #8477#los# __ #32586#colores y formas#
+En cuanto a aves, destacan el águila harpía, el jabirú, la espátula rosada, el ganso selvático y el gallito de las rocas --- Observa las aves  --- #2474#observar# __ #8477#las# __ #6923#aves#
+La gran mayoría de personas preferimos los alimentos dulces, pero estos contienen azúcar refinada y no tienen nutrientes --- Prohibido comer dulces --- #32366#prohibido# __ #6456#comer# __ #4636#dulce#
+Lee el texto en forma silenciosa y rápida, emplea no más de 30 segundos, para que tengas una primera idea de su contenido --- Lee de manera silenciosa y rápida --- #28643#leer# __ #5936#silencio# __ #5306#rápida#
+Mientras recorremos este camino y observamos el maravilloso paisaje, nos preguntamos qué hace de esta bahía algo tan especial --- Observa la bahía  --- #2474#observar# __ #8476#la# __ #23792#bahía#
+Elegimos una actividad comercial y seleccionamos un producto que vamos a vender en la feria o el mercado de nuestra comunidad --- Vamos al mercado a comprar --- #32954#vamos a la tienda# __ #32942#mercado# __ #28665#comprar#
+Plantas aromáticas: pétalos de rosa, canela entera, hojas de laurel, hojas de tomillo, hojas de eucalipto, hojas de romero, etc --- Observa las plantas aromáticas  --- #2474#observar# __ #8477#las# __ #39101#plantas aromáticas#
+Luego, juega con tus compañeras y compañeras tirando el cubo y explicando el proceso que ocurre con los estímulos y las respuestas --- Jugar con el cubo  --- #2439#jugar# __ #7064#con# __ #8476#el# __ #8308#cubo#
+Pregunto a mis padres y parientes lo siguiente: ¿Qué materiales reutilizan en casa? ¿Qué hacen con los materiales que ya no utilizan? --- Aprendemos a reciclar --- #26636#aprender# __ #7041#a# __ #27212#reciclar#
+En cambio, las niñas y los niños de los dos pueblos eran muy amigos y cruzaban el río en una barca por las tardes para poder jugar juntos --- Cuidado al cruzar el río  --- #25618#cuidado# __ #5976#cruzar# __ #2811#río#
+nace --- nacer --- #37980#nacer#
+Lago --- lago --- #6022#lago#
+Masa --- Masa --- #38442#masa#
+papa --- papa --- #2503#papa#
+peces --- peces --- #7199#peces#
+lluvia --- lluvia ---  #7148#lluvia#
+KRAKEN --- kraken --- #3379#pulpo#
+cabeza --- cabeza --- #2673#cabeza#
+martes --- martes --- #6557#martes#
+trucha --- trucha --- #7820#trucha#
+cuerda --- cuerda --- #7006#cuerda#
+domingo --- domingo --- #6478#domingo#
+Bolivia --- Bolivia --- #29594#Bolivia#
+Mascota --- mascota --- #25654#mascota#
+primavera --- primavera --- #5553#primavera#
+PUBLICACIÓN --- publicacion --- #2813#revista#
+Escríbanlos --- escríbanlos --- #2380#escribir#
+combinación --- combinación --- #5515#mezclar#
+Ingredientes --- ingredientes --- #24119#ingredientes#
+¿Lo ves? --- ver --- #6564#ver#
+5 minutos --- 5 minutos --- #35631#5# __ #37374#minuto#
+El reﬂejo --- reflejo --- #8682#reflejar#
+Las pinto --- pintor --- #11341#pintor#
+Al escuchar --- escuchar --- #2381#escuchar#
+Me pregunto --- preguntar --- #9847#preguntar#
+Estado sólido --- iceberg --- #6014#iceberg#
+La compartimos --- La compartimos --- #38900#compartir#
+Energía química --- energía química --- #26059#energía# __ #36374#química#
+Tipos de globos --- Observa los globos --- #2474#observar# __ #2408#globo#
+Exposición oral --- Exposición oral ---  #9870#exposición#
+Los dos pueblos --- el pueblo --- #8476#el# __ #2823#pueblo#
+Den sus razones --- Den sus razones --- #35669#explicar#
+Marquen Sí o No --- señalar sí o no --- #6612#señalar# __ #5584#sí# __ #11317#o# __ #5526#no#
+Luego, escribiré --- Luego, escribiré --- #32749#luego# __ #2380#escribir#
+La oca y la papa --- La oca y la papa --- #8476/la# __ #2878#oca# __ #11399#y# __ #8476#la# __ #2503#papa#
+Carta de opinión --- carta certificada --- #21514#carta certificada#
+Son los adjetivos --- los adjetivos --- #8477#los# __ #32584#adjetivos#
+Río, laguna o mar --- Río y mar --- #2811#río# __ #11399#y# __ #2925#mar#
+¿Qué dirás de ti? --- Hablar de mi --- #3345#hablar# __ #7074#de# __ #7309#yo#
+La zona se inflama --- inflamación --- #31833#inflamación#
+Fecha de fundación --- Fecha de inauguración --- #34799#fecha# __ #7074#de# __ #6016#inaugurar#
+Respetar las leyes --- Respetar las leyes --- #36720#respetar# __ #8477#las# __ #11473#ley#
+Patio de la escuela --- Patio del colegio --- #33065#patio# __ #11712#del# __ #3082#colegio#
+Corrijo una vez más --- Corrijo una vez más --- #6998#corregir# __ #37162#una vez más#
+Si les toca exponer --- Turno de exponer --- #7158#turno# __ #7074#de# __ #9870#exponer#
+Plantas medicinales --- La manzanilla es una planta que sana --- #8476#la# __ #38795#manzanilla# __ #8474#una# __ #38613#planta# __ #11351#que# __ #29648#sana#
+Si dan instrucciones --- Dar instrucciones --- #17038#dar# __ #34705#instrucciones#
+Lo estoy aprendiendo --- Yo quiero aprender --- #5441#yo quiero# __ #26636#aprender#
+¿Cómo es un colibrí? --- Describe al colibri --- #11715#descripción# __ #11709#al# __ #9062#colibrí#
+Utilizamos adjetivos --- Hablar con adjetivos --- #6517#hablar# __ #7064#con# __ #32584#adjetivos#
+Leemos para saber más --- Leer y saber --- #28643#leer# __ #3171#y# __ #26405#saber#
+Descripción del lugar --- Descripción de un lugar --- #11717#descripción# __ #7074#de# __ #32598#lugar#
+Escribe tu respuesta --- Escribir el resultado --- #2380#escribir# __ #8476#el# __ #32775#¿cuál es el resultado?#
+goma u otro pegamento --- Usar pegamento --- #15485#usar# __ #2510#pegamento#
+Diseñar procedimientos --- Diseñar un documento --- #21800#diseñar# __ #8474#un# __ #21802#documento#
+Texto de la página 115 --- Qué página? --- #22620#qué# __ #20115#página#
+La carpa, el pez dorado --- Carpa, pez dorado --- #24943#carpa# __ #7199#peces# __ #2739#dorado#
+Escribe sobre su futuro --- Escribir del futuro--- #2380#escribir# __ #11712#del# __ #9829#futuro#
+¿Qué habrá en la feria? --- Cuándo llega la feria --- #32874#cuándo# __ #16807#llegar# __ #37741#feria#
+¿Saben qué es un poema? --- Qué una poesia --- #32771#qué es?# __ #8474#una# __ #22763#poesía#
+¿No ves que ya cierran? --- Observa está cerrado --- #2474#observar# __ #7056#cerrar#
+Posee un sabor delicioso --- rico --- #32340#rico#
+Hilos de bordar y agujas --- Hilos y agujas --- #2978#hilo# __ #11399#y# __ #2639#aguja#
+¡Cómo saltan y se mueven! --- Observa como saltan --- #2474#observar# __ #2804#saltar#
+¡Buenos días, doña María! --- Buenos días --- #6944#buenos días#
+Ahora es el turno de Lucía --- Cambio de turno --- #34713#cambio de turno#
+¡Qué lindos son los peces! --- Observa los peces --- #2474#observar# __ #7199#peces#
+Contar una historia de amor --- Contar un cuento de amor --- #5973#contar# __ #2364#cuento# __ #8020#amor#
+Entonces el cóndor les dijo --- Observa al condor  --- #2474#observar# __ #36986#cóndor#
+Construimos una pelota bala --- Jugar a la pelota --- #31892#jugar a la pelota#
+Luego responde las preguntas --- responder las preguntas --- #9030#responder# __ #8476#la# __ #7217#pregunta#
+Medir el botellón y marcarlo --- Medir la botella --- #5510#medir# __ #8476#la# __ #39042#botella#
+Lee y responde las preguntas --- Lee y responde las preguntas --- #7141#leer# __ #28433#responder# __ #8476#la# __ #7217#pregunta#
+2 frascos de vidrio con tapas --- 2 vasos --- #7027#2# __ #2610#vaso#
+2 papas sancochadas y peladas --- 2 papas --- #7027#2#  __ #2503#papa#
+El mono choro de cola amarilla --- mirar al mono --- #2474#mirar# __ #11709#al# __ #2477#mono#
+¿Cómo se siembra y se cultiva? --- Siembra y cultiva --- #7245#siembra# __ #11399#y# __ #38080#cultivar#
+Características del oso andino --- Mira al oso --- #2474#mirar# __ #11709#al# __ #2488#oso#
+Ponte ropa cómoda y abrigadora --- Ordena la ropa --- #2872#ordenar# __ #8476#la# __ #7233#ropa#
+¿Quiénes son los destinatarios? --- Destinatario del email --- #37434#destinatario del email#
+Acuáticos: lagos, ríos, lagunas --- Lago y río --- #6022#lago# __ #11399#y# __ #10306#ríos#
+Por ejemplo, el gato y el ratón --- gato y ratón --- #2406#gato# __ #11399#y# __ #2546#ratón#
+¿Qué formas de pescar conocemos? --- pescar --- #6592#pescar#
+Elaborar un comedero inteligente --- comedero --- #38506#comedero#
+Las figuras musicales o corcheas --- corcheas --- #9126#corchea#
+Pasaremos unas Navidades blancas --- Dia de Navidad --- #3092#Día de Navidad#
+Conocemos las plantas aromáticas --- plantas aromáticas --- #39101#plantas aromáticas#
+Usamos la cartilla para ayudarlos --- Usamos cartillas de apoyo --- #15485#usar# __ #32259#cartilla# __ #7074#de# __ #12252#apoyo#
+El hambre y la pobreza en el país --- Pobreza en el país --- #15521#pobreza# __ #70343en# __ #8476#el# __ #35431#país#
+Comencemos con la lluvia de ideas --- tener una idea --- #6019#tener una idea#
+¿Qué materiales reciclan en casa? --- Yo quiero reciclar --- #5441#yo quiero# __ #27212#reciclar#
+¿Para qué se elaboró este afiche? --- Elaborar un cartel --- #11698#elaborar# __ #8065#cartel#
+Pego las imágenes en los cuadrados --- Pegar el dibujo --- #2511#pegar# __ #8476#el# __ #11238#dibujo#
+Emplear un volumen de voz adecuado --- Bajar el volumen --- #5916#bajar el volumen#
+Debo mejorar mi letra y ortografía --- Yo quiero mejorar mi letra --- #5441#yo quiero# __ #11705#mejorar# __ #12264#mi# __ #34361#letras#
+Leo el texto y observo la situación --- Leo el texto --- #7141#leer# __ #37340#texto#
+Una muestra de esto es la artesanía --- La artesanía --- #8476#la# __ #22769#artesanía#
+¿Qué lugar observamos en la imagen? --- ¿Qué lugar observas? --- ##22620#qué# __ #32598#lugar# __ #2474#observar#
+Energía del viento (energía eólica) --- energía eólica --- #26061#energía eólica#
+Consumir pescado de forma sostenible --- #Comer pescado# --- #2349#comer# __ #2519#pescado#
+El pan con queso es un gran alimento --- pan con queso --- #2494#pan# __ #7064#con# __ #4881#queso#
+¡juntos vamos a aprender a reciclar! --- Aprendo a reciclar --- #37776#aprender# __ #27214#reciclar#
+¿Cómo está formado el sistema solar? --- Qué es un sistema solar --- #32771#qué es?# __ #8474#un# __ #37979#sistema solar#
+Escribo los nombres de tres de ellos --- Escribe tu nombre --- #8107#escribir# __ #6625#tú# __ #7061#nombre#
+¿Cuál será el tema de la exposición? --- Cambiar el tema de exposición --- #11199#cambiar de tema# __ #7074#de# __ #9870#exposición#
+Ratnakara significa la mina de joyas --- mina --- #26220#mina#
+El clima cálido fomenta su desarrollo --- Clima caluroso --- #24721#clima# __ #31845#caluroso#
+Escribo la información en mi cuaderno --- Escribo en mi cuaderno --- #8107#escribir# __ #7034#en# __ #12264#mi# __ #2359#cuaderno#
+Se siembra en cualquier época del año --- Sembrar un árbol --- #7245#sembrar# __ #8474#un# __ #3057#árbol#
+¿Con qué se elaboran estos productos? --- Tienda de productos a granel --- #38253#tienda de productos a granel#
+¡Como soldados cuidaremos el planeta! --- soldado --- #2797#soldado#
+Pego mi dibujo en la pizarra del aula --- Pegar el dibujo en la pizarra --- #2511#pegar# __ #32518#dibujo# __ #7034#en# __ #8476#la# __ #2526#pizarra#
+Son alimentos que nos ayudan a crecer --- Comer para crecer --- #2349#comer# __ #7194#para# __ #11683#crecer#
+¿Dónde encontraremos esa información? --- ¿Dónde encontraremos esa información? --- #7764#dónde# __ #6946#buscar# __ #8476#la# __ #9897#información#
+¿Cuáles fueron las formas de trabajo? --- Trabajos manuales --- #24769#trabajos manuales#
+El mapa y sus indicaciones son claros --- Buscar en el mapa --- #6946#buscar# __ #7034#en# __ #8476#el# __ #5505#mapa#
+¿Cómo era el clima en épocas pasadas? --- Clima helado --- #24721#clima# __ #25153#helada#
+Importancia de una buena alimentación --- Alimento saludable --- #37201#alimento saludable#
+Además, vive cerca de los acantilados --- acantilado --- #8007#acantilado#
+¿Qué contiene tu Cuaderno de trabajo? --- Muestra tu cuaderno --- #11308#mostrar# __ #6625#tú# __ #2359#cuaderno#
+El pájaro paucar --- El pájaro --- #8476#el# __ #2490#pájaro#
+Explica quién es --- ¿de quién es? --- #32743#¿de quién es?#
+¿Qué describiré? --- ¿Qué describiré? --- #22620#qué# __ #11719#descripción#
+¿Qué debo hacer? --- ¿Qué hare? --- #22620#qué# __ #32751#hacer#
+Tipos de energía --- Escuchar con atención --- #2381#escuchar# __ #7064#con# __ #24863#atención#
+Nos mantienen sanos --- Mantenerme sano --- #17050#mantener# __ #12293#sano#
+¿Cómo se llega allí? ---  Cómo llegar --- #22619#cómo# __ #16805#llegar#
+¿Qué se decía de él? --- Hablar de él --- #36544#hablar# __ #7074#de# __ #6480#él#
+Antes de la asamblea --- Antes de la asamblea --- #32745#antes# __ #7074#de# __ #8476#la# __ #27575#asamblea#
+Chogui ya no volvería --- No volverá --- #5526#no# __ #6248#volver#
+¿En qué puedo mejorar? --- Tu vas a mejorar ---#2608#tú# __ #7041#a# __ #11705#mejorar#
+¿De qué trata el texto? --- Qué se habla en el texto --- #22620#qué# __ #3345#hablar# __ #7034#en# __ #37340#texto#
+¿Qué te agrada de ella? --- Qué me gusta de ella --- #22620#qué# __ #37721#gustar# __ #7074#de# __ #7028#ella#
+¡No se olviden de Luis! --- No olvidar --- #5525#no# __ #26258#olvidar#
+Yo pienso que son correctos --- Todo correcto --- #27091#todo# __ #21381#correcto#
+Me abrió las puertas del IPD --- Abrir las puertas --- #24598#abrir la puerta#
+¿Cómo se llamará el personaje? --- Nombre del famoso --- #27357#nombre# __ #11712#del# __ #10203#famoso#
+el dios de los ríos y los lagos --- dios de los ríos y los lagos --- #35069#Dios# __ #7074#de# __ #8477#los# __ #2811#río# __ #11399#y# __ #6022#lago#
+Sus acciones son inconsistentes --- Acciones sin pensar --- #32067#acciones# __ #7813#sin# __ #38796#pensar#
+¿Para qué vamos a leer el texto? --- Para qué leemos el texto --- #7194#para# __ #22620#qué# __ #28643#leer# __ #37340#texto#
+¿Creen que podrían escribir uno? --- Yo quiero escribir --- #5441#yo quiero# __ #8107#escribir#
+Completa las partes de la planta --- Completa las partes de la planta --- #26176#completa# __ #8477#las# __ #9877#partes# __ #3143#planta#
+La bodega favorita de mi comunidad --- Tienda favorita --- #35695#tienda# __ #30012#favorita#
