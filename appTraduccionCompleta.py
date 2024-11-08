@@ -89,7 +89,7 @@ def cargar_pictogramas():
 
 def tokenizar_lematizar_oraciones():
     try:
-        with open("validacion_oraciones.txt", 'r', encoding='utf-8') as archivo_texto:
+        with open("train_ordenadas.txt", 'r', encoding='utf-8') as archivo_texto:
             lineas = archivo_texto.readlines()
             lineas = [linea.strip() for linea in lineas]
             oraciones_lematizadas = []
